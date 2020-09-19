@@ -1,0 +1,2 @@
+Placeholder text file to add directory to the repository.
+To be removed when meaningful files are added.
