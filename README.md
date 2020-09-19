@@ -12,5 +12,7 @@ Fan-made tweaks to Sekai's English localization of Maitetsu.
 ## Directory Guide
 
 `en`: Files that are a part of both patches; i.e. they don't differ between the American and British English versions.
+
 `us`: Files with American English-specific tweaks.
+
 `gb`: Files with British English-specific tweaks.
