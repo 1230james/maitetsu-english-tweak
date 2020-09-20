@@ -1,0 +1,1171 @@
+{
+	"hash" : "aca354d2d89f32f4fd1795663c6898c5",
+	"llmap" : 
+	[
+		{
+			"*start" : 
+			[
+				5,
+				7,
+				9
+			],
+			"name" : "\u5171\u901a\u672b\u5c3e_\u30eb\u30fc\u30c8\u5206\u5c90_en.txt"
+		}
+	],
+	"name" : "\u5171\u901a\u672b\u5c3e_\u30eb\u30fc\u30c8\u5206\u5c90.txt",
+	"outlines" : [],
+	"scenes" : 
+	[
+		{
+			"firstLine" : 3,
+			"label" : "*start",
+			"lines" : 
+			[
+				[
+					1,
+					{
+						"data" : [],
+						"env" : 
+						{
+							"action" : 
+							[
+								[
+									"shiftx",
+									-30
+								],
+								[
+									"camerazoom",
+									212
+								],
+								[
+									"shifty",
+									68
+								],
+								null,
+								[
+									"camerazoom",
+									100
+								],
+								[
+									"shiftx",
+									0
+								],
+								[
+									"shifty",
+									0
+								],
+								null
+							],
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					1,
+					3
+				],
+				[
+					"scnseek",
+					"fadeout",
+					"true"
+				],
+				"\u5171\u901a\u30eb\u30fc\u30c8",
+				"done_c15",
+				"ac_\u5171\u901a\u30eb\u30fc\u30c8\u8aad\u4e86",
+				[
+					2,
+					{
+						"data" : [],
+						"env" : 
+						{
+							"action" : 
+							[
+								[
+									"shiftx",
+									-30
+								],
+								[
+									"camerazoom",
+									212
+								],
+								[
+									"shifty",
+									68
+								],
+								null,
+								[
+									"camerazoom",
+									100
+								],
+								[
+									"shiftx",
+									0
+								],
+								[
+									"shifty",
+									0
+								],
+								null
+							],
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					1,
+					13
+				]
+			],
+			"nexts" : 
+			[
+				{
+					"storage" : "\u5171\u901a\u672b\u5c3e_\u30eb\u30fc\u30c8\u5206\u5c90.txt",
+					"target" : "*dummyselect1",
+					"type" : 0
+				}
+			],
+			"spCount" : 2,
+			"title" : 
+			[
+				"\u56de\u308a\u59cb\u3081\u308b\u52d5\u8f2a",
+				"Turning Wheel"
+			]
+		},
+		{
+			"firstLine" : 13,
+			"label" : "*dummyselect1",
+			"lines" : 
+			[
+				[
+					1,
+					{
+						"data" : [],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 0
+						}
+					},
+					null,
+					1,
+					16
+				]
+			],
+			"selectInfo" : {},
+			"selects" : 
+			[
+				{
+					"language" : 
+					[
+						null,
+						{
+							"searchtext" : "Pick Hachiroku's suggestion",
+							"speechtext" : "Pick Hachiroku's suggestion",
+							"text" : "Pick Hachiroku's suggestion"
+						}
+					],
+					"render" : 1,
+					"selidx" : 0,
+					"storage" : "\u5171\u901a\u672b\u5c3e_\u30eb\u30fc\u30c8\u5206\u5c90.txt",
+					"target" : "*op1",
+					"text" : "\u30cf\u30c1\u30ed\u30af\u306e\u610f\u898b\u3092\u53c2\u8003\u306b\u3059\u308b"
+				},
+				{
+					"language" : 
+					[
+						null,
+						{
+							"searchtext" : "Pick Paulette's suggestion",
+							"speechtext" : "Pick Paulette's suggestion",
+							"text" : "Pick Paulette's suggestion"
+						}
+					],
+					"render" : 1,
+					"selidx" : 1,
+					"storage" : "\u5171\u901a\u672b\u5c3e_\u30eb\u30fc\u30c8\u5206\u5c90.txt",
+					"target" : "*op2",
+					"text" : "\u30dd\u30fc\u30ec\u30c3\u30c8\u306e\u610f\u898b\u3092\u53c2\u8003\u306b\u3059\u308b"
+				},
+				{
+					"language" : 
+					[
+						null,
+						{
+							"searchtext" : "Pick Hibiki's suggestion",
+							"speechtext" : "Pick Hibiki's suggestion",
+							"text" : "Pick Hibiki's suggestion"
+						}
+					],
+					"render" : 1,
+					"selidx" : 2,
+					"storage" : "\u5171\u901a\u672b\u5c3e_\u30eb\u30fc\u30c8\u5206\u5c90.txt",
+					"target" : "*op3",
+					"text" : "\u65e5\u3005\u59eb\u306e\u610f\u898b\u3092\u53c2\u8003\u306b\u3059\u308b"
+				}
+			],
+			"spCount" : 1,
+			"title" : 
+			[
+				"\u56de\u308a\u59cb\u3081\u308b\u52d5\u8f2a",
+				"Turning Wheel"
+			]
+		},
+		{
+			"firstLine" : 16,
+			"label" : "*op1",
+			"lines" : 
+			[
+				[
+					1,
+					{
+						"data" : [],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					1,
+					16
+				],
+				[
+					"quickmenu",
+					"fadeout",
+					"true"
+				],
+				[
+					"envupdate",
+					"wait",
+					{
+						"list" : 
+						[
+							null,
+							{
+								"mode" : 0,
+								"name" : "env"
+							}
+						],
+						"wait" : 1000
+					},
+					"trans",
+					{
+						"method" : "crossfade",
+						"time" : "1000"
+					}
+				],
+				[
+					2,
+					{
+						"data" : [],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					18
+				],
+				[
+					"envupdate",
+					"update",
+					[
+						[
+							"init",
+							0
+						],
+						[
+							"new",
+							"bgm",
+							"bgm"
+						],
+						{
+							"action" : 
+							[
+								null
+							],
+							"name" : "env"
+						}
+					],
+					"wait",
+					{
+						"list" : 
+						[
+							{
+								"mode" : 0,
+								"name" : "env"
+							}
+						]
+					}
+				],
+				[
+					3,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					19
+				],
+				[
+					"meswinload",
+					"page",
+					"both"
+				],
+				[
+					4,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							],
+							[
+								"face",
+								"msgwin",
+								{
+									"action" : 
+									[
+										[
+											"zpos",
+											-97.5
+										]
+									],
+									"class" : "msgwin",
+									"name" : "face",
+									"showmode" : 0,
+									"type" : null
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					19
+				],
+				[
+					"envupdate",
+					"update",
+					[
+						[
+							"new",
+							"face",
+							"msgwin"
+						]
+					]
+				],
+				[
+					5,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					20
+				],
+				[
+					"sysmovie",
+					"file",
+					"OP1",
+					"canskip",
+					"true"
+				],
+				[
+					"endrecollection"
+				],
+				[
+					"quickmenu",
+					"fadein",
+					"true"
+				],
+				[
+					"scnseek",
+					"fadein",
+					"true"
+				],
+				[
+					6,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					1,
+					26
+				]
+			],
+			"nexts" : 
+			[
+				{
+					"storage" : "\u30cf\u30c1\u30ed\u30af01_\u53cc\u9244\u306e\u76ee\u30fb\u30cf\u30c1\u30ed\u30af\u306e\u76ee.txt",
+					"type" : 0
+				}
+			],
+			"spCount" : 6,
+			"title" : 
+			[
+				"\u56de\u308a\u59cb\u3081\u308b\u52d5\u8f2a",
+				"Turning Wheel"
+			]
+		},
+		{
+			"firstLine" : 26,
+			"label" : "*op2",
+			"lines" : 
+			[
+				[
+					1,
+					{
+						"data" : [],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					1,
+					26
+				],
+				[
+					"quickmenu",
+					"fadeout",
+					"true"
+				],
+				[
+					"envupdate",
+					"wait",
+					{
+						"list" : 
+						[
+							null,
+							{
+								"mode" : 0,
+								"name" : "env"
+							}
+						],
+						"wait" : 1000
+					},
+					"trans",
+					{
+						"method" : "crossfade",
+						"time" : "1000"
+					}
+				],
+				[
+					2,
+					{
+						"data" : [],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					28
+				],
+				[
+					"envupdate",
+					"update",
+					[
+						[
+							"init",
+							0
+						],
+						[
+							"new",
+							"bgm",
+							"bgm"
+						],
+						{
+							"action" : 
+							[
+								null
+							],
+							"name" : "env"
+						}
+					],
+					"wait",
+					{
+						"list" : 
+						[
+							{
+								"mode" : 0,
+								"name" : "env"
+							}
+						]
+					}
+				],
+				[
+					3,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					29
+				],
+				[
+					"meswinload",
+					"page",
+					"both"
+				],
+				[
+					4,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							],
+							[
+								"face",
+								"msgwin",
+								{
+									"action" : 
+									[
+										[
+											"zpos",
+											-97.5
+										]
+									],
+									"class" : "msgwin",
+									"name" : "face",
+									"showmode" : 0,
+									"type" : null
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					29
+				],
+				[
+					"envupdate",
+					"update",
+					[
+						[
+							"new",
+							"face",
+							"msgwin"
+						]
+					]
+				],
+				[
+					5,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					30
+				],
+				[
+					"sysmovie",
+					"file",
+					"OP2",
+					"canskip",
+					"true"
+				],
+				[
+					"endrecollection"
+				],
+				[
+					"quickmenu",
+					"fadein",
+					"true"
+				],
+				[
+					"scnseek",
+					"fadein",
+					"true"
+				],
+				[
+					6,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					1,
+					36
+				]
+			],
+			"nexts" : 
+			[
+				{
+					"storage" : "\u30dd\u30fc\u30ec\u30c3\u30c801_\u5fa1\u4e00\u591c\u63a2\u3057.txt",
+					"type" : 0
+				}
+			],
+			"spCount" : 6,
+			"title" : 
+			[
+				"\u56de\u308a\u59cb\u3081\u308b\u52d5\u8f2a",
+				"Turning Wheel"
+			]
+		},
+		{
+			"firstLine" : 36,
+			"label" : "*op3",
+			"lines" : 
+			[
+				[
+					1,
+					{
+						"data" : [],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					1,
+					36
+				],
+				[
+					"quickmenu",
+					"fadeout",
+					"true"
+				],
+				[
+					"envupdate",
+					"wait",
+					{
+						"list" : 
+						[
+							null,
+							{
+								"mode" : 0,
+								"name" : "env"
+							}
+						],
+						"wait" : 1000
+					},
+					"trans",
+					{
+						"method" : "crossfade",
+						"time" : "1000"
+					}
+				],
+				[
+					2,
+					{
+						"data" : [],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					38
+				],
+				[
+					"envupdate",
+					"update",
+					[
+						[
+							"init",
+							0
+						],
+						[
+							"new",
+							"bgm",
+							"bgm"
+						],
+						{
+							"action" : 
+							[
+								null
+							],
+							"name" : "env"
+						}
+					],
+					"wait",
+					{
+						"list" : 
+						[
+							{
+								"mode" : 0,
+								"name" : "env"
+							}
+						]
+					}
+				],
+				[
+					3,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					39
+				],
+				[
+					"meswinload",
+					"page",
+					"both"
+				],
+				[
+					4,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							],
+							[
+								"face",
+								"msgwin",
+								{
+									"action" : 
+									[
+										[
+											"zpos",
+											-97.5
+										]
+									],
+									"class" : "msgwin",
+									"name" : "face",
+									"showmode" : 0,
+									"type" : null
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					39
+				],
+				[
+					"envupdate",
+					"update",
+					[
+						[
+							"new",
+							"face",
+							"msgwin"
+						]
+					]
+				],
+				[
+					5,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					null,
+					40
+				],
+				[
+					"sysmovie",
+					"file",
+					"OP3",
+					"canskip",
+					"true"
+				],
+				[
+					"endrecollection"
+				],
+				[
+					"quickmenu",
+					"fadein",
+					"true"
+				],
+				[
+					"scnseek",
+					"fadein",
+					"true"
+				],
+				[
+					6,
+					{
+						"data" : 
+						[
+							[
+								"bgm",
+								"bgm",
+								{
+									"name" : "bgm",
+									"replay" : 
+									{
+										"filename" : null,
+										"loop" : null,
+										"start" : null,
+										"state" : null,
+										"volume" : null
+									},
+									"update" : 
+									{
+										"state" : null
+									}
+								}
+							]
+						],
+						"env" : 
+						{
+							"name" : "env"
+						},
+						"scnseek" : 
+						{
+							"visible" : 1
+						}
+					},
+					null,
+					1,
+					44
+				]
+			],
+			"nexts" : 
+			[
+				{
+					"storage" : "\u65e5\u3005\u59eb01_\u53cc\u9244\u306e\u59b9.txt",
+					"type" : 0
+				}
+			],
+			"spCount" : 6,
+			"title" : 
+			[
+				"\u56de\u308a\u59cb\u3081\u308b\u52d5\u8f2a",
+				"Turning Wheel"
+			]
+		}
+	]
+}
