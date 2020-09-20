@@ -67,7 +67,7 @@ Note that quotations marks are used in the text when a character is actually spe
 
 Also note that text where there is no speaker has a trailing space at the end of the string. I'm guessing this is for formatting reasons to make the text appear properly in-game, but for the sake of consistency, do not omit trailing spaces in non-speaking lines.
 
-#### Array Structure
+#### Dialogue Array Structure
 You'll find that all the dialogue text can be found inside arrays with at least two but up to four elements inside. For example:
 ```JSON
 [
@@ -88,10 +88,12 @@ These arrays follow the following format:
 [
     "String that equals the speaker's name, or null for no speaker",
     "Dialogue text displayed during normal play",
-    "Unsure, but possibly dialogue text displayed in user's bookmarks selection menu",
+    "Unsure, but possibly dialogue text used as the default hint text for the users' bookmarks",
     "Dialogue text displayed from scene selection menu"
 ]
 ```
+
+Every array with dialogue text is inside one larger array that can be found under the key `texts` in each chapter's file in the `scn` directories.
 
 #### Glossary Links & Text Color
 Some text has in-line references to glossary terms, which are done like so:
