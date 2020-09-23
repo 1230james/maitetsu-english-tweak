@@ -7,6 +7,8 @@ Fan-made tweaks to Sekai's English localization of Maitetsu.
 
 * Improve use of English railroading jargon.
 * Fix grammatical typos and other incorrect English conventions.
+* Improve writing in sections with awkward wording or flow.
+* Correct any and all other errors and inconsistencies throughout the visual novel.
 * Offer separate American English and British English varieties.
 * Compatibility with Steam and non-Steam desktop editions of Maitetsu.
 * Will *not* include H-scene dialogue.
@@ -60,12 +62,12 @@ The following are some notes you should know when working with the script files.
 #### Indentation Policy
 For consistency, please use **four spaces** for indents instead of fewer or more spaces and instead of tab characters **if you need to change the identation of any line**, but **try to avoid changing indentation where possible**.
 
-Lines that don't need their indentation adjusted should be left alone, since these scripts are hundreds of thousnads of lines long, and it would take a significant amount of time to replace each tab character with four spaces.
+Lines that don't need their indentation adjusted should be left alone, since these scripts are hundreds of thousands of lines long, and it would take a significant amount of time to replace each tab character with four spaces.
 
 #### Noteworthy Use of Conventions
 Note that quotations marks are used in the text when a character is actually speaking. Please do not neglect them.
 
-Also note that text where there is no speaker has a trailing space at the end of the string. I'm guessing this is for formatting reasons to make the text appear properly in-game, but for the sake of consistency, do not omit trailing spaces in non-speaking lines.
+Also note that text where there is no speaker has a trailing space at the end of the string. I'm guessing this is for formatting reasons to make the text appear properly in-game without potentially conflicting with other UI elements. Regardless, for the sake of consistency, do not omit trailing spaces in non-speaking lines.
 
 #### Dialogue Array Structure
 You'll find that all the dialogue text can be found inside arrays with at least two but up to four elements inside. For example:
