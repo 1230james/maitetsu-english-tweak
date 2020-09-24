@@ -78798,9 +78798,9 @@
 						],
 						[
 							"Raillord",
-							"\"Any more and we will start %l\u6ed1\u8d70;#00ffc040;sliding%l;#;. We are at the limit. We don't have enough %l\u5236\u52d5;#00ffc040;braking%l;#; power.\"",
-							"\"Any more and we will start sliding. We are at the limit. We don't have enough braking power.\"",
-							"\"Any more and we will start sliding. We are at the limit. We don't have enough braking power.\""
+							"\"...it's no use! We're really at the limit now; we'll get %l\u6ed1\u8d70;#00ffc040;wheelslide%l;#; if we apply any more than this. We don't have enough %l\u5236\u52d5;#00ffc040;braking%l;#; power to stop!\"",
+							"\"...it's no use! We're really at the limit now; we'll get wheelslide if we apply any more than this. We don't have enough braking power to stop!\"",
+							"\"...it's no use! We're really at the limit now; we'll get wheelslide if we apply any more than this. We don't have enough braking power to stop!\"",
 						]
 					],
 					[
@@ -79047,7 +79047,7 @@
 						],
 						[
 							"Engineer",
-							"\"Then we take other measures\u2014we use another method besides stopping! I don't care how you do it! The objective is to avoid falling off the bridge!\""
+							"\"In that case, we'll just have to try something else! Anything! I don't care what it is\u2014we just need to avoid running off the bridge!\""
 						]
 					],
 					[
@@ -79294,7 +79294,7 @@
 						],
 						[
 							"Raillord",
-							"\"Besides stopping... Then we do the opposite!\""
+							"\"If we can't stop... then let's try the exact opposite!\""
 						]
 					],
 					[
@@ -79539,7 +79539,7 @@
 						],
 						[
 							"Engineer",
-							"\"Oh, right! There's no other way but this.\""
+							"\"Ah! I get you. There's no other choice except that.\""
 						]
 					],
 					[
@@ -79784,7 +79784,7 @@
 						],
 						[
 							"Raillord",
-							"\"Are our passengers seated?\""
+							"\"Will the passengers be all right in their seats?\""
 						]
 					],
 					[
@@ -80031,9 +80031,9 @@
 						],
 						[
 							"Engineer",
-							"\"It's those two: Seki the %l\u8eca\u638c;#00ffc040;conductor%l;#; and Mayuzumi the %l\u8eca\u8ca9;#00ffc040;sales clerk%l;#;, right? I'm sure they're doing their jobs.\"",
-							"\"It's those two: Seki the conductor and Mayuzumi the sales clerk, right? I'm sure they're doing their jobs.\"",
-							"\"It's those two: Seki the conductor and Mayuzumi the sales clerk, right? I'm sure they're doing their jobs.\""
+							"\"It's %l\u8eca\u638c;#00ffc040;Conductor%l;#; Seki and %l\u8eca\u8ca9;#00ffc040;Clerk%l;#; Mayuzumi in the back, right? It's their job to worry about that. I'm sure they can handle of it.\"",
+							"\"It's Conductor Seki and Clerk Mayuzumi in the back, right? It's their job to worry about that. I'm sure they can handle of it.\"",
+							"\"It's Conductor Seki and Clerk Mayuzumi in the back, right? It's their job to worry about that. I'm sure they can handle of it.\""
 						]
 					],
 					[
@@ -80280,7 +80280,7 @@
 						],
 						[
 							"Raillord",
-							"\"I suppose. Then we should concentrate on doing ours.\""
+							"\"You're right. Let's concentrate on doing ours, then.\""
 						]
 					],
 					[
@@ -80525,7 +80525,7 @@
 						],
 						[
 							"Engineer",
-							"\"I already am! The biggest job of my life!\""
+							"\"Let's do it! This will be the biggest moment of our lives!\""
 						]
 					],
 					[
@@ -80770,7 +80770,7 @@
 						],
 						[
 							"Engineer",
-							"\"Oh my god!\""
+							"\"God save us\u2014hang on!\""
 						]
 					],
 					[
@@ -81139,8 +81139,8 @@
 							"\u300c\u3053\u3053\u3060\uff01\u3000\u843d\u3061\u3066\u306a\u3044\uff01\u3000\u843d\u3061\u3066\u306a\u3044\u305e\u3063\uff01\u300d"
 						],
 						[
-							"Imperial Railworker A",
-							"\"Over here! They didn't fall!\""
+							"Imperial Rail Worker A",
+							"\"Over here! They didn't fall off the bridge!\""
 						]
 					],
 					[
@@ -81280,8 +81280,8 @@
 							"\u300c\u5947\u8de1\u3060\u306a\u3002\u6b62\u307e\u3063\u3066\u304f\u308c\u305f\u3068\u3044\u3046\u306e\u304b\u300d"
 						],
 						[
-							"Imperial Railworker B",
-							"\"This is a miracle. They stopped?\""
+							"Imperial Rail Worker B",
+							"\"This is a miracle! They stopped the train in time?\""
 						]
 					],
 					[
@@ -81434,10 +81434,10 @@
 							"\u300c\u3044\u3084\u3001\u8ee2\u8986\u3060\uff01\u3000\u8131\u7dda\u8ee2\u8986\uff01\uff01\u3060\u304c\u3001\u5168\u6ec5\u3088\u308a\u306f\u3088\u307b\u3069\u30de\u30b7\u3060\u3063\uff01\uff01\u300d"
 						],
 						[
-							"Imperial Railworker A",
-							"\"No, they turned to the side and %l\u8131\u7dda\u8ee2\u8986;#00ffc040;derailed%l;#;! But that's better than all of us dying!\"",
-							"\"No, they turned to the side and derailed! But that's better than all of us dying!\"",
-							"\"No, they turned to the side and derailed! But that's better than all of us dying!\""
+							"Imperial Rail Worker A",
+							"\"No, the train went off the rails and landed on its side! They %l\u8131\u7dda\u8ee2\u8986;#00ffc040;derailed%l;#; themselves, but that's way better than running off the bridge and falling to certain death!\"",
+							"\"No, the train went off the rails and landed on its side! They derailed themselves, but that's way better than running off the bridge and falling to certain death!\"",
+							"\"No, the train went off the rails and landed on its side! They derailed themselves, but that's way better than running off the bridge and falling to certain death!\""
 						]
 					],
 					[
@@ -81590,10 +81590,10 @@
 							"\u300c\u3045\u2026\u2026\u3080\u2015\u2015\u3053\u308c\u306f\u2015\u2015\u5148\u982d\u5ba2\u8eca\u3001\u7279\u306b\u3072\u3069\u3044\u306a\u2015\u2015\u304a\u3044\u3001\u63a2\u3059\u3093\u3060\u3002\u751f\u5b58\u8005\u3092\u63a2\u3057\u3066\u6551\u52a9\u3057\u308d\u300d"
 						],
 						[
-							"Imperial Railworker B",
-							"\"Hmm... The front %l\u5ba2\u8eca;#00ffc040;passenger car%l;#; is especially bad... Hey, we have to go look for survivors and rescue them.\"",
-							"\"Hmm... The front passenger car is especially bad... Hey, we have to go look for survivors and rescue them.\"",
-							"\"Hmm... The front passenger car is especially bad... Hey, we have to go look for survivors and rescue them.\""
+							"Imperial Rail Worker B",
+							"\"God... the first %l\u5ba2\u8eca;#00ffc040;passenger car%l;#; looks really bad... Hey! Come on, we need to locate and rescue any survivors!\"",
+							"\"God... the first passenger car looks really bad... Hey! Come on, we need to locate and rescue any survivors!\"",
+							"\"God... the first passenger car looks really bad... Hey! Come on, we need to locate and rescue any survivors!\""
 						]
 					],
 					[
@@ -82041,7 +82041,7 @@
 						],
 						[
 							null,
-							"Then... I'm alive... Just my half... "
+							"Then... I'm alive... But my... "
 						]
 					],
 					null,
@@ -82339,8 +82339,8 @@
 							"\u300c\u3044\u307e\u3057\u305f\uff01\u3000\u751f\u5b58\u8005\uff01\u547c\u5438\u3042\u308a\u307e\u3059\u304c\u2015\u2015\u91cd\u75c7\u3067\u3059\u3063\u300d"
 						],
 						[
-							"Imperial Railworker C",
-							"\"I found a survivor! He's breathing, but he's seriously hurt.\""
+							"Imperial Rail Worker C",
+							"\"I found a survivor! He's breathing, but he's seriously injured.\""
 						]
 					],
 					[
@@ -82787,7 +82787,7 @@
 							"\u300c\u5b50\u4f9b\u3058\u3083\u306a\u3044\u304b\uff01\u3000\u304a\u3044\u3063\u3001\u541b\uff01\u300d"
 						],
 						[
-							"Imperial Railworker A",
+							"Imperial Rail Worker A",
 							"\"He's only a child! Hey, you!\""
 						]
 					],
@@ -83235,7 +83235,7 @@
 							"\u300c\u30c0\u30e1\u3067\u3059\uff01\u3000\u52d5\u304b\u3055\u306a\u3044\u3067\uff01\u3000\u982d\u304b\u3089\u51fa\u8840\u3057\u3066\u3044\u307e\u3059\u300d"
 						],
 						[
-							"Imperial Railworker C",
+							"Imperial Rail Worker C",
 							"\"Wait! Don't move him! He's bleeding from the head!\""
 						]
 					],
@@ -83686,7 +83686,7 @@
 						],
 						[
 							null,
-							"Bleeding... from my head. Then I should just head to the light... "
+							"Bleeding... from my head... Maybe I should just head to the light... "
 						]
 					],
 					null,
@@ -84129,7 +84129,7 @@
 						],
 						[
 							null,
-							"But then Michi... Michiko, my sister, pushed me to safety... "
+							"But then this means Michi... Michiko, my sister, pushed me to safety... "
 						]
 					],
 					null,
@@ -84569,8 +84569,8 @@
 							"\u300c\u6b62\u8840\u3057\u308d\uff01\u3000\u52a9\u3051\u308b\u3093\u3060\uff01\u3000\u65e9\u304f\u3063\uff01\u300d"
 						],
 						[
-							"Imperial Railworker A",
-							"\"Stop the bleeding! Hurry!\""
+							"Imperial Rail Worker A",
+							"\"Stop the bleeding and get him some help! Hurry!\""
 						]
 					],
 					[
@@ -85019,8 +85019,8 @@
 							"\u300c\u3082\u3061\u308d\u3093\u3067\u3059\uff01\u3000\u3067\u3059\u304c\u2015\u2015\u3001\u4e00\u523b\u3082\u65e9\u304f\u75c5\u9662\u306b\u3064\u308c\u3066\u3044\u304b\u306a\u3044\u3068\u3063\u300d"
 						],
 						[
-							"Imperial Railworker C",
-							"\"I know! We have to take him to a hospital immediately.\""
+							"Imperial Rail Worker C",
+							"\"I know! We have to get him to a hospital immediately.\""
 						]
 					],
 					[
@@ -85469,10 +85469,10 @@
 							"\u300c\u3069\u3046\u79fb\u9001\u3059\u308b\uff01\uff1f\u3000\u6551\u63f4\u8eca\u306f\u4e00\u756a\u8fd1\u304f\u3066\u56fd\u514e\u6d25\u3060\u305e\uff01\u5f92\u6b69\u3067\u4fdd\u7dda\u57fa\u5730\u307e\u3067\u623b\u3063\u305f\u65b9\u304c\u307e\u3060\u65e9\u3044\uff01\u300d"
 						],
 						[
-							"Imperial Railworker A",
-							"\"How do we transport him?! The closest rescue vehicle is Kouzu! It's faster to walk to the %l\u4fdd\u7dda;#00ffc040;track maintenance%l;#; fort!\"",
-							"\"How do we transport him?! The closest rescue vehicle is Kouzu! It's faster to walk to the track maintenance fort!\"",
-							"\"How do we transport him?! The closest rescue vehicle is Kouzu! It's faster to walk to the track maintenance fort!\""
+							"Imperial Rail Worker A",
+							"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the %l\u4fdd\u7dda;#00ffc040;track maintenance%l;#; outpost on foot!\"",
+							"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the track maintenance outpost on foot!\"",
+							"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the track maintenance outpost on foot!\"",
 						]
 					],
 					[
@@ -85919,8 +85919,8 @@
 							"\u300c\u7121\u7406\u3067\u3059\uff01\u3000\u305d\u308c\u3067\u306f\u3068\u3066\u3082\u4fdd\u305f\u306a\u3044\u3063\u300d"
 						],
 						[
-							"Imperial Railworker C",
-							"\"That's not possible! He won't last that long!\""
+							"Imperial Rail Worker C",
+							"\"We can't do that! He won't last that long!\""
 						]
 					],
 					[
@@ -86367,7 +86367,7 @@
 							"\u300c\u306a\u3089\u3069\u3046\u3057\u308d\u3068\u3063\uff01\uff01\u300d"
 						],
 						[
-							"Imperial Railworker A",
+							"Imperial Rail Worker A",
 							"\"Then what are we supposed to do?!\""
 						]
 					],
@@ -87703,10 +87703,10 @@
 							"\u300c\u652f\u793e\u306b\u30a8\u30a2\u30af\u30e9\u2015\u2015\u98db\u3076\u5974\u3001\u8a66\u4f5c\u6a5f\u304c\u3042\u308b\u3060\u308d\u3046\u3002\u3042\u308c\u3092\u8981\u8acb\u3057\u308d\u300d"
 						],
 						[
-							"Imperial Railworker B",
-							"\"The branch office has the %l\u30a8\u30a2\u30af\u30e9;#00ffc040;aircra%l;#;\u2014 the flying prototype. Request that.\"",
-							"\"The branch office has the aircra\u2014 the flying prototype. Request that.\"",
-							"\"The branch office has the aircra\u2014 the flying prototype. Request that.\""
+							"Imperial Rail Worker B",
+							"\"Wait, the %l\u30a8\u30a2\u30af\u30e9;#00ffc040;aircra%l;#;! The flying prototype is at the branch office, right? Ask them to send that!\"",
+							"\"Wait, the aircra! The flying prototype is at the branch office, right? Ask them to send that!\"",
+							"\"Wait, the aircra! The flying prototype is at the branch office, right? Ask them to send that!\""
 						]
 					],
 					[
@@ -88153,8 +88153,8 @@
 							"\u300c\u3042\u306e\u8a66\u4f5c\u6a5f\u304b\uff01\u3000\u3044\u3084\u3001\u3060\u304c\u2015\u2015\u3053\u306e\u98a8\u96e8\u3060\u305e\u3063\uff01\uff1f\u300d"
 						],
 						[
-							"Imperial Railworker A",
-							"\"That prototype? But we're in the middle of a storm!\""
+							"Imperial Rail Worker A",
+							"\"That prototype? In this weather!?\""
 						]
 					],
 					[
@@ -88603,8 +88603,8 @@
 							"\u300c\u7121\u4eba\u3067\u98db\u3070\u305b\u3002\u305f\u3068\u3048\u843d\u3061\u3066\u3082\u8ab0\u3082\u6b7b\u306a\u3093\u3002\u653e\u3063\u3066\u304a\u3051\u3070\u3053\u306e\u5b50\u306f\u6b7b\u306c\u3002\u8003\u3048\u308b\u4f59\u5730\u304c\u3042\u308b\u304b\uff1f\u300d"
 						],
 						[
-							"Imperial Railworker B",
-							"\"Fly it unmanned. Even if it crashes, no one will die. If you leave this kid now, he'll die for sure. There's nothing to think about here.\""
+							"Imperial Rail Worker B",
+							"\"Have them send it over unmanned, then. That way, if it crashes, nobody will die. If we leave the kid like this, though, he'll die for sure! What other choice do we have!?\""
 						]
 					],
 					[
@@ -89053,8 +89053,8 @@
 							"\u300c\u308f\u304b\u3063\u305f\uff01\u3000\u3053\u306e\u5b50\u306e\u547d\u304c\u6700\u512a\u5148\u3060\u3068\u8981\u8acb\u3057\u3088\u3046\u3002\u304a\u3044\u30ad\u30df\u3001\u9811\u5f35\u308c\u3002\u8a66\u4f5c\u6a5f\u304c\u6765\u308b\u307e\u3067\u6b7b\u306c\u3093\u3058\u3083\u306a\u3044\u305e\u300d"
 						],
 						[
-							"Imperial Railworker A",
-							"\"All right! I'll request it and make the kid's life top priority. Hang in there. You better not die on us here.\""
+							"Imperial Rail Worker A",
+							"\"All right! I'll request for it and make the boy's life top priority. Hang in there, kid! You better not die before the prototype gets here!\""
 						]
 					],
 					[
@@ -89501,8 +89501,8 @@
 							"\u300c\u6b7b\u306a\u305b\u307e\u305b\u3093\u3088\uff01\u3000\u6b7b\u306a\u305b\u307e\u305b\u3093\u3068\u3082\u3063\uff01\uff01\u300d"
 						],
 						[
-							"Imperial Railworker C",
-							"\"I won't let him die!\""
+							"Imperial Rail Worker C",
+							"\"I won't let him die! I refuse to let him die here!\""
 						]
 					],
 					[
@@ -89951,8 +89951,8 @@
 							"\u300c\u98db\u3070\u305b\u3001\u98db\u3070\u3059\u3093\u3060\u3001\u98db\u884c\u578b\u3092\u3063\u3002\u3053\u306e\u5b50\u306e\u547d\u304c\u6700\u512a\u5148\u3060\u3001\u306a\u306b\u3092\u7f6e\u3044\u3066\u3082\u98db\u3070\u3055\u305b\u308d\uff01\u300d"
 						],
 						[
-							"Imperial Railworker B",
-							"\"Fly that prototype. The kid's life is top priority! Fly it at all costs!\""
+							"Imperial Rail Worker B",
+							"\"Get the prototype airborne! The kid's life is the highest priority; they've got to get it to fly, no matter what!\""
 						]
 					],
 					[
