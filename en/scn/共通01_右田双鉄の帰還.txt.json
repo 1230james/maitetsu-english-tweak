@@ -74260,7 +74260,7 @@
 						],
 						[
 							"Raillord",
-							"\"There's no other way...\""
+							"\"There's... no other options...\""
 						]
 					],
 					[
@@ -74776,7 +74776,7 @@
 						],
 						[
 							"Engineer",
-							"\"Report in. What way? Every second you delay the report... brings the danger closer by a few meters.\""
+							"\"What do you mean by that? Give me the report, now! Every second you wait brings us a few meters closer to danger!\""
 						]
 					],
 					[
@@ -75292,9 +75292,9 @@
 						],
 						[
 							"Raillord",
-							"\"There is an accident with an unconfirmed status. The %l\u767a\u5831;#00ffc040;report%l;#; was sent by 9642 %l\u30ec\u30a4\u30eb\u30ed\u30aa\u30c9;#00ffc040;Raillord%l;#;. The %l\u5e1d\u9244\u8ca8\u7269;#00ffc040;imperial freight%l;#; with fifteen cars. There is a possibility that all cars are lost.\"",
-							"\"There is an accident with an unconfirmed status. The report was sent by 9642 Raillord. The imperial freight with fifteen cars. There is a possibility that all cars are lost.\"",
-							"\"There is an accident with an unconfirmed status. The report was sent by 9642 Raillord. The imperial freight with fifteen cars. There is a possibility that all cars are lost.\""
+							"\"It's still unconfirmed, but the %l\u30ec\u30a4\u30eb\u30ed\u30aa\u30c9;#00ffc040;Raillord%l;#; from No. 9642 %l\u767a\u5831;#00ffc040;reports%l;#; that there's been an accident involving an %l\u5e1d\u9244\u8ca8\u7269;#00ffc040;Imperial Freight%l;#; train with a fifteen-car %l\u7de8\u6210;#00ffc040;consist%l;#;. It's possible that all the cars have been lost.\"",
+							"\"It's still unconfirmed, but the Raillord from No. 9642 reports that there's been an accident involving an Imperial Freight train with a fifteen-car consist. It's possible that all the cars have been lost.\"",
+							"\"It's still unconfirmed, but the Raillord from No. 9642 reports that there's been an accident involving an Imperial Freight train with a fifteen-car consist. It's possible that all the cars have been lost.\"",
 						]
 					],
 					[
@@ -76324,9 +76324,9 @@
 						],
 						[
 							"Raillord",
-							"\"I sensed a scream from 9642 %l\u30ec\u30a4\u30eb\u30ed\u30aa\u30c9;#00ffc040;Raillord%l;#; about the falling of the railway bridge... That... The Fuji River Bridge fell.\"",
-							"\"I sensed a scream from 9642 Raillord about the falling of the railway bridge... That... The Fuji River Bridge fell.\"",
-							"\"I sensed a scream from 9642 Raillord about the falling of the railway bridge... That... The Fuji River Bridge fell.\""
+							"\"No. 9642's %l\u30ec\u30a4\u30eb\u30ed\u30aa\u30c9;#00ffc040;Raillord%l;#; said that the bridge collapsed\u2014they were screaming that... the Fuji River Bridge collapsed.\"",
+							"\"No. 9642's Raillord said that the bridge collapsed\u2014they were screaming that... the Fuji River Bridge collapsed.\"",
+							"\"No. 9642's Raillord said that the bridge collapsed\u2014they were screaming that... the Fuji River Bridge collapsed.\"",
 						]
 					],
 					[
@@ -76842,7 +76842,7 @@
 						],
 						[
 							"Engineer",
-							"\"Fuji River?! That can't be right! It's too close!\""
+							"\"Fuji River!? That can't be right, that's too close to us!\""
 						]
 					],
 					[
@@ -77358,9 +77358,9 @@
 						],
 						[
 							"Raillord",
-							"\"There's no way to stop now. Even looking at the maximum efficacy of the %l\u5236\u52d5;#00ffc040;braking%l;#; power, we simply cannot stop completely, even if we had seventy-five seconds.\"",
-							"\"There's no way to stop now. Even looking at the maximum efficacy of the braking power, we simply cannot stop completely, even if we had seventy-five seconds.\"",
-							"\"There's no way to stop now. Even looking at the maximum efficacy of the braking power, we simply cannot stop completely, even if we had seventy-five seconds.\""
+							"\"There's no way we can stop the train in time. Even with maximum %l\u5236\u52d5;#00ffc040;braking%l;#;, we wouldn't be able to stop within the next seventy-five seconds.\"",
+							"\"There's no way we can stop the train in time. Even with maximum braking, we wouldn't be able to stop within the next seventy-five seconds.\"",
+							"\"There's no way we can stop the train in time. Even with maximum braking, we wouldn't be able to stop within the next seventy-five seconds.\""
 						]
 					],
 					[
@@ -77589,7 +77589,9 @@
 						],
 						[
 							"Engineer",
-							"\"We have passengers on board! We have to stop no matter what! Reduce speed again! You take the helm!\""
+							"\"We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase %l\u5236\u52d5;#00ffc040;braking%l;#;!\"",
+                            "We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase braking!",
+                            "We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase braking!",
 						]
 					],
 					[
@@ -77829,9 +77831,9 @@
 						],
 						[
 							"Raillord",
-							"\"Understood. Increasing %l\u5727;#00ffc040;pressure%l;#;!\"",
-							"\"Understood. Increasing pressure!\"",
-							"\"Understood. Increasing pressure!\""
+							"\"Understood. Applying %l\u30d6\u30ec\u30fc\u30ad;#00ffc040;brakes%l;#;!\"",
+							"\"Understood. Applying brakes!\"",
+							"\"Understood. Applying brakes!\""
 						]
 					],
 					[
@@ -78069,7 +78071,7 @@
 						],
 						[
 							"Engineer",
-							"\"Oh, geez! Now we have side wind\u2014of all the times!\""
+							"\"Oh, geez! We have a crosswind now, of all times!\""
 						]
 					],
 					[
@@ -78302,16 +78304,16 @@
 					null,
 					[
 						[
-							null,
+							"\u30ec\u30a4\u30eb\u30ed\u30aa\u30c9",
 							"\u300c%l\u5236\u52d5;#00ffc040;\u5236\u52d5%l;#;\u7d9a\u884c\u3002\\n\u2015\u2015\u3082\u3046\u5c11\u3057\u2015\u2015\u5727\u3001\u3082\u3046\u5c11\u3057\u3060\u3051\u2015\u2015\u3063\uff01\uff01\uff01\u300d",
 							"\u300c\u5236\u52d5\u7d9a\u884c\u3002\u2015\u2015\u3082\u3046\u5c11\u3057\u2015\u2015\u5727\u3001\u3082\u3046\u5c11\u3057\u3060\u3051\u2015\u2015\u3063\uff01\uff01\uff01\u300d",
 							"\u300c\u5236\u52d5\u7d9a\u884c\u3002\u2015\u2015\u3082\u3046\u5c11\u3057\u2015\u2015\u5727\u3001\u3082\u3046\u5c11\u3057\u3060\u3051\u2015\u2015\u3063\uff01\uff01\uff01\u300d"
 						],
 						[
-							"Hachiroku",
-							"\"Continuing applied %l\u5236\u52d5;#00ffc040;braking%l;#;. A little more pressure... A little more!\"",
-							"\"Continuing applied braking. A little more pressure... A little more!\"",
-							"\"Continuing applied braking. A little more pressure... A little more!\""
+							"Raillord",
+							"\"Continuing %l\u30d6\u30ec\u30fc\u30ad;#00ffc040;brake%l;#; application! Come on, just a little more %;\u5727;#00ffc040;pressure%l;#;... just a little bit more...!\"",
+							"\"Continuing brake application! Come on, just a little bit more pressure... just a little bit more...!\"",
+							"\"Continuing brake application! Come on, just a little bit more pressure... just a little bit more...!\""
 						]
 					],
 					[
@@ -78556,7 +78558,7 @@
 						],
 						[
 							null,
-							"*poof* *poof* *whooooo*"
+							"*chuff* *chuff* *woooooo*"
 						]
 					],
 					null,
