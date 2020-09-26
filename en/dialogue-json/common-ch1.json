@@ -1,0 +1,1864 @@
+[
+	[
+		[
+			"？？？",
+			"「ついてないわね。こうも見事に直撃されるなんて」"
+		],
+		[
+			"???",
+			"\"Damn, what are the odds—we just took a direct hit.\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「%l粘着力;#00ffc040;粘着力%l;#;が著しく低下しています。\\n[すなま,1]砂撒きを進言します」",
+			"「粘着力が著しく低下しています。すなまきを進言します」",
+			"「粘着力が著しく低下しています。砂撒きを進言します」"
+		],
+		[
+			"Raillord",
+			"\"The %l粘着力;#00ffc040;adhesion%l;#;'s been significantly reduced. I would strongly advise sanding.\"",
+			"\"The adhesion's been significantly reduced. I would strongly advise sanding.\"",
+			"\"The adhesion's been significantly reduced. I would strongly advise sanding.\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「[ま]撒いた瞬間流されるのがオチでしょうけど。\\nま、やらないよりはね――っと」",
+			"「まいた瞬間流されるのがオチでしょうけど。ま、やらないよりはね――っと」",
+			"「撒いた瞬間流されるのがオチでしょうけど。ま、やらないよりはね――っと」"
+		],
+		[
+			"Engineer",
+			"\"The sand would just get washed away the moment it hits the rails, but it's better than doing nothing, I suppose.\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「%l砂撒き;#00ffc040;砂撒き%l;#;を確認。……%l粘着力;#00ffc040;粘着力%l;#;の増加は確認できず。\\n脱線の危険があります。速度低減を進言します」",
+			"「砂撒きを確認。……粘着力の増加は確認できず。脱線の危険があります。速度低減を進言します」",
+			"「砂撒きを確認。……粘着力の増加は確認できず。脱線の危険があります。速度低減を進言します」"
+		],
+		[
+			"Raillord",
+			"\"%l砂撒き;#00ffc040;Sanding%l;#; confirmed, but I cannot detect any increase in %l粘着力;#00ffc040;adhesion%l;#;. There is a risk of derailment; I advise reducing speed.\"",
+			"\"Sanding confirmed, but I cannot detect any increase in adhesion. There is a risk of derailment; I advise reducing speed.\"",
+			"\"Sanding confirmed, but I cannot detect any increase in adhesion. There is a risk of derailment; I advise reducing speed.\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「……やむなしね。\\n[しずおか,1]靜岡での%l接続;#00ffc040;接続%l;#;は遅らせたくなかったんだけど」",
+			"「……やむなしね。しずおかでの接続は遅らせたくなかったんだけど」",
+			"「……やむなしね。靜岡での接続は遅らせたくなかったんだけど」"
+		],
+		[
+			"Engineer",
+			"\"I guess we have no choice. I really didn't want to miss the %l接続;#00ffc040;connection%l;#; to Shizuoka, though.\"",
+			"\"I guess we have no choice. I really didn't want to miss the connection to Shizuoka, though.\"",
+			"\"I guess we have no choice. I really didn't want to miss the connection to Shizuoka, though.\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「すぐに先方の%lレイルロオド;#00ffc040;レイルロオド%l;#;へ%l共感;#00ffc040;共感%l;#;をつなぎ遅延連絡\\n――っ！？　なっ！？　え？　もう一度っ！？」",
+			"「すぐに先方のレイルロオドへ共感をつなぎ遅延連絡――っ！？　なっ！？　え？　もう一度っ！？」",
+			"「すぐに先方のレイルロオドへ共感をつなぎ遅延連絡――っ！？　なっ！？　え？　もう一度っ！？」"
+		],
+		[
+			"Raillord",
+			"\"I'll connect with the other %lレイルロオド;#00ffc040;Raillords%l;#; to notify them about our dela—wait, what?! Can you repeat that?!\"",
+			"\"I'll connect with the other Raillords to notify them about our dela—wait, what?! Can you repeat that?!\"",
+			"\"I'll connect with the other Raillords to notify them about our dela—wait, what?! Can you repeat that?!\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「なにかあったの？　報告を」"
+		],
+		[
+			"Engineer",
+			"\"What happened? Give me a report.\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「続報を――続報を速やかに送りなさい！\\n沈黙は許しませんっ！　早く、早く続報をっ！」",
+			"「続報を――続報を速やかに送りなさい！沈黙は許しませんっ！　早く、早く続報をっ！」",
+			"「続報を――続報を速やかに送りなさい！沈黙は許しませんっ！　早く、早く続報をっ！」"
+		],
+		[
+			"Raillord",
+			"\"A follow-up—send me a follow-up report, now! I won't tolerate silence! Come on, come on, hurry up and send it!\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「冷静になり報告しなさいっ！」"
+		],
+		[
+			"Engineer",
+			"\"Calm down and give me the report!\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「っ！　――最大限の%l制動;#00ffc040;制動%l;#;をください。\\n%l滑走;#00ffc040;滑走%l;#;せぬよう補助します」",
+			"「っ！　――最大限の制動をください。滑走せぬよう補助します」",
+			"「っ！　――最大限の制動をください。滑走せぬよう補助します」"
+		],
+		[
+			"Raillord",
+			"\"...! Apply full service %l制動;#00ffc040;braking%l;#;.  I'll assist you so we can avoid %l滑走;#00ffc040;wheelslide%l;#;.\"",
+			"\"...! Apply full service braking! I'll assist you so we can avoid wheelslide.\"",
+			"\"...! Apply full service braking! I'll assist you so we can avoid wheelslide.\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「%l制動;#00ffc040;制動%l;#;了解。この速度から%l非常;#00ffc040;非常%l;#;は無理――よね」",
+			"「制動了解。この速度から非常は無理――よね」",
+			"「制動了解。この速度から非常は無理――よね」"
+		],
+		[
+			"Engineer",
+			"\"Roger that, applying %l制動;#00ffc040;brakes%l;#;. At this speed, though, it'll be impossible stop, even if we used the %l非常;#00ffc040;emergency brake%l;#;...\"",
+			"\"Roger that, applying brakes. At this speed, though, it'll be impossible stop, even if we used the emergency brake...\"",
+			"\"Roger that, applying brakes. At this speed, though, it'll be impossible stop, even if we used the emergency brake...\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「……これ以上は%l滑走;#00ffc040;滑走%l;#;します。\\n限界です。制動力は足りません」",
+			"「……これ以上は滑走します。限界です。制動力は足りません」",
+			"「……これ以上は滑走します。限界です。制動力は足りません」"
+		],
+		[
+			"Raillord",
+			"\"...we're at the limit. We'll get %l滑走;#00ffc040;wheelslide%l;#; if we brake any harder, but we don't have enough braking power!\"",
+			"\"...we're at the limit. We'll get wheelslide if we brake any harder, but we don't have enough braking power!\"",
+			"\"...we're at the limit. We'll get wheelslide if we brake any harder, but we don't have enough braking power!\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「これでも%lロック;#00ffc040;ロック%l;#;？　どれだけ%l粘着力;#00ffc040;粘着力%l;#;落ちてるのよ」",
+			"「これでもロック？　どれだけ粘着力落ちてるのよ」",
+			"「これでもロック？　どれだけ粘着力落ちてるのよ」"
+		],
+		[
+			"Engineer",
+			"\"You %lロック;#00ffc040;lapped%l;#; the brakes already? Just how poor is the %l粘着力;#00ffc040;adhesion%l;#; here?\"",
+			"\"You lapped the brakes already? Just how poor is the adhesion here?\"",
+			"\"You lapped the brakes already? Just how poor is the adhesion here?\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「これは……もう方法が」"
+		],
+		[
+			"Raillord",
+			"\"There's... no other options...\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「報告なさい。何の方法？　報告が一秒遅れるだけで、\\n危険が何メートル近づくかわかってるでしょうに」",
+			"「報告なさい。何の方法？　報告が一秒遅れるだけで、危険が何メートル近づくかわかってるでしょうに」",
+			"「報告なさい。何の方法？　報告が一秒遅れるだけで、危険が何メートル近づくかわかってるでしょうに」"
+		],
+		[
+			"Engineer",
+			"\"What do you mean by that? Give me the report, now! Every second you wait brings us a few meters closer to danger!\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「状況未確定の事故報告。%l発報;#00ffc040;発報%l;#;は[キュウロクヨンニイ,3]9642%lレイルロオド;#00ffc040;レイルロオド%l;#;。\\n%l帝鉄貨物;#00ffc040;帝鉄貨物%l;#;。十五両%l編成;#00ffc040;編成%l;#;。全車両喪失の可能性あり」",
+			"「状況未確定の事故報告。発報はキュウロクヨンニイレイルロオド。帝鉄貨物。十五両編成。全車両喪失の可能性あり」",
+			"「状況未確定の事故報告。発報は9642レイルロオド。帝鉄貨物。十五両編成。全車両喪失の可能性あり」"
+		],
+		[
+			"Raillord",
+			"\"It's still unconfirmed, but the %lレイルロオド;#00ffc040;Raillord%l;#; from No. 9642 %l発報;#00ffc040;reports%l;#; that there's been an accident involving an %l帝鉄貨物;#00ffc040;Imperial Freight%l;#; train with a fifteen-car %l編成;#00ffc040;consist%l;#;. It's possible that all the cars have been lost.\"",
+			"\"It's still unconfirmed, but the Raillord from No. 9642 reports that there's been an accident involving an Imperial Freight train with a fifteen-car consist. It's possible that all the cars have been lost.\"",
+			"\"It's still unconfirmed, but the Raillord from No. 9642 reports that there's been an accident involving an Imperial Freight train with a fifteen-car consist. It's possible that all the cars have been lost.\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「十五両全部！？　って、詳細！」"
+		],
+		[
+			"Engineer",
+			"\"All fifteen?! Give me more details!\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「9642%lレイルロオド;#00ffc040;レイルロオド%l;#;は『鉄橋崩落』と――断末魔の%l共感;#00ffc040;共感%l;#;で。\\n……[ふじがわ,2]冨士川[きょうりょう,1]橋梁が崩落したと」",
+			"「9642レイルロオドは『鉄橋崩落』と――断末魔の共感で。……ふじがわきょうりょうが崩落したと」",
+			"「9642レイルロオドは『鉄橋崩落』と――断末魔の共感で。……冨士川橋梁が崩落したと」"
+		],
+		[
+			"Raillord",
+			"\"No. 9642's %lレイルロオド;#00ffc040;Raillord%l;#; said that the bridge collapsed—they were screaming that... the Fuji River Bridge collapsed.\"",
+			"\"No. 9642's Raillord said that the bridge collapsed—they were screaming that... the Fuji River Bridge collapsed.\"",
+			"\"No. 9642's Raillord said that the bridge collapsed—they were screaming that... the Fuji River Bridge collapsed.\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「[ふじがわ,2]冨士川っ！？\\nまさかそんなっ！　近すぎるっ！！」",
+			"「ふじがわっ！？まさかそんなっ！　近すぎるっ！！」",
+			"「冨士川っ！？まさかそんなっ！　近すぎるっ！！」"
+		],
+		[
+			"Engineer",
+			"\"Fuji River!? That can't be right, that's too close to us!\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「当機に停止の手段無し。%l制動;#00ffc040;制動%l;#;力を最大限適正にとっても……七五秒後、止まりきれずに――」",
+			"「当機に停止の手段無し。制動力を最大限適正にとっても……七五秒後、止まりきれずに――」",
+			"「当機に停止の手段無し。制動力を最大限適正にとっても……七五秒後、止まりきれずに――」"
+		],
+		[
+			"Raillord",
+			"\"There's no way we can stop the train in time. Even with maximum %l制動;#00ffc040;braking%l;#;, we wouldn't be able to stop within the next seventy-five seconds.\"",
+			"\"There's no way we can stop the train in time. Even with maximum braking, we wouldn't be able to stop within the next seventy-five seconds.\"",
+			"\"There's no way we can stop the train in time. Even with maximum braking, we wouldn't be able to stop within the next seventy-five seconds.\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「お客様乗せてんのよ、無理でも止めるっ！！\\n再減速！　そっち主導で！！」",
+			"「お客様乗せてんのよ、無理でも止めるっ！！再減速！　そっち主導で！！」",
+			"「お客様乗せてんのよ、無理でも止めるっ！！再減速！　そっち主導で！！」"
+		],
+		[
+			"Engineer",
+			"\"We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase %l制動;#00ffc040;braking%l;#;!\"",
+			"We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase braking!",
+			"We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase braking!"
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「再減速了解。%l圧;#00ffc040;[あつ,4]ブレーキ力%l;#;、強めます――っ！」",
+			"「再減速了解。あつ、強めます――っ！」",
+			"「再減速了解。ブレーキ力、強めます――っ！」"
+		],
+		[
+			"Raillord",
+			"\"Understood. Applying %lブレーキ;#00ffc040;brakes%l;#;!\"",
+			"\"Understood. Applying brakes!\"",
+			"\"Understood. Applying brakes!\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「ああもうっ！　こんなときに横風までっ」"
+		],
+		[
+			"Engineer",
+			"\"Oh, geez! We have a crosswind now, of all times!\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「%l制動;#00ffc040;制動%l;#;続行。\\n――もう少し――圧、もう少しだけ――っ！！！」",
+			"「制動続行。――もう少し――圧、もう少しだけ――っ！！！」",
+			"「制動続行。――もう少し――圧、もう少しだけ――っ！！！」"
+		],
+		[
+			"Raillord",
+			"\"Continuing %lブレーキ;#00ffc040;brake%l;#; application! Come on, just a little more %;圧;#00ffc040;pressure%l;#;... just a little bit more...!\"",
+			"\"Continuing brake application! Come on, just a little bit more pressure... just a little bit more...!\"",
+			"\"Continuing brake application! Come on, just a little bit more pressure... just a little bit more...!\""
+		]
+	],
+	[
+		[
+			null,
+			"（ポ！　ポオォッ！　ポッ！　ポーーーーーーーーッ！）"
+		],
+		[
+			null,
+			"*chuff* *chuff* *woooooo*"
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「……これ以上は%l滑走;#00ffc040;滑走%l;#;します。限界です。\\n%l制動;#00ffc040;制動%l;#;力は足りません」",
+			"「……これ以上は滑走します。限界です。制動力は足りません」",
+			"「……これ以上は滑走します。限界です。制動力は足りません」"
+		],
+		[
+			"Raillord",
+			"\"...it's no use! We're really at the limit now; we'll get %l滑走;#00ffc040;wheelslide%l;#; if we apply any more than this. We don't have enough %l制動;#00ffc040;braking%l;#; power to stop!\"",
+			"\"...it's no use! We're really at the limit now; we'll get wheelslide if we apply any more than this. We don't have enough braking power to stop!\"",
+			"\"...it's no use! We're really at the limit now; we'll get wheelslide if we apply any more than this. We don't have enough braking power to stop!\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「だったら他っ！　停止以外の方策をっ！\\n手段は問わない！　目標は転落回避っ！！！」",
+			"「だったら他っ！　停止以外の方策をっ！手段は問わない！　目標は転落回避っ！！！」",
+			"「だったら他っ！　停止以外の方策をっ！手段は問わない！　目標は転落回避っ！！！」"
+		],
+		[
+			"Engineer",
+			"\"In that case, we'll just have to try something else! Anything! I don't care what it is—we just need to avoid running off the bridge!\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「停止、以外――。\\nでしたら、逆に！」",
+			"「停止、以外――。でしたら、逆に！」",
+			"「停止、以外――。でしたら、逆に！」"
+		],
+		[
+			"Raillord",
+			"\"If we can't stop... then let's try the exact opposite!\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「ああ！　そうね、逆に――これしかないわね」"
+		],
+		[
+			"Engineer",
+			"\"Ah! I get you. There's no other choice except that.\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「お客様、ご着席大丈夫でしょうか」"
+		],
+		[
+			"Raillord",
+			"\"Will the passengers be all right in their seats?\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「%l車掌;#00ffc040;車掌%l;#;・[せき]関、%l車販;#00ffc040;車販%l;#;・[まゆずみ]黛のコンビでしょ？\\nやってるわ。きちんと、彼女たちの仕事を」",
+			"「車掌・せき、車販・まゆずみのコンビでしょ？やってるわ。きちんと、彼女たちの仕事を」",
+			"「車掌・関、車販・黛のコンビでしょ？やってるわ。きちんと、彼女たちの仕事を」"
+		],
+		[
+			"Engineer",
+			"\"It's %l車掌;#00ffc040;Conductor%l;#; Seki and %l車販;#00ffc040;Clerk%l;#; Mayuzumi in the back, right? It's their job to worry about that. I'm sure they can handle of it.\"",
+			"\"It's Conductor Seki and Clerk Mayuzumi in the back, right? It's their job to worry about that. I'm sure they can handle of it.\"",
+			"\"It's Conductor Seki and Clerk Mayuzumi in the back, right? It's their job to worry about that. I'm sure they can handle of it.\""
+		]
+	],
+	[
+		[
+			"レイルロオド",
+			"「そうですね。\\nわたくしたちも、わたくしたちの」",
+			"「そうですね。わたくしたちも、わたくしたちの」",
+			"「そうですね。わたくしたちも、わたくしたちの」"
+		],
+		[
+			"Raillord",
+			"\"You're right. Let's concentrate on doing ours, then.\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「やってやるわよ。一世一代の仕事をね！」"
+		],
+		[
+			"Engineer",
+			"\"Let's do it! This will be the biggest moment of our lives!\""
+		]
+	],
+	[
+		[
+			"機関士",
+			"「南無三っ！！！」"
+		],
+		[
+			"Engineer",
+			"\"God save us—hang on!\""
+		]
+	],
+	[
+		[
+			null,
+			"……………………………………………………………………\\n……………………………………………………………………",
+			"…………………………………………………………………………………………………………………………………………",
+			"…………………………………………………………………………………………………………………………………………"
+		],
+		[
+			null,
+			"...... "
+		]
+	],
+	[
+		[
+			null,
+			"「ここだ！　落ちてない！　落ちてないぞっ！」"
+		],
+		[
+			"Imperial Rail Worker A",
+			"\"Over here! They didn't fall off the bridge!\""
+		]
+	],
+	[
+		[
+			"帝鉄職員Ｂ",
+			"「奇跡だな。止まってくれたというのか」"
+		],
+		[
+			"Imperial Rail Worker B",
+			"\"This is a miracle! They stopped the train in time?\""
+		]
+	],
+	[
+		[
+			null,
+			"「いや、転覆だ！　%l脱線転覆;#00ffc040;脱線転覆%l;#;！！\\nだが、全滅よりはよほどマシだっ！！」",
+			"「いや、転覆だ！　脱線転覆！！だが、全滅よりはよほどマシだっ！！」",
+			"「いや、転覆だ！　脱線転覆！！だが、全滅よりはよほどマシだっ！！」"
+		],
+		[
+			"Imperial Rail Worker A",
+			"\"No, the train went off the rails and landed on its side! They %l脱線転覆;#00ffc040;derailed%l;#; themselves, but that's way better than running off the bridge and falling to certain death!\"",
+			"\"No, the train went off the rails and landed on its side! They derailed themselves, but that's way better than running off the bridge and falling to certain death!\"",
+			"\"No, the train went off the rails and landed on its side! They derailed themselves, but that's way better than running off the bridge and falling to certain death!\""
+		]
+	],
+	[
+		[
+			"帝鉄職員Ｂ",
+			"「ぅ……む――これは――先頭%l客車;#00ffc040;客車%l;#;、特にひどいな――\\nおい、探すんだ。生存者を探して救助しろ」",
+			"「ぅ……む――これは――先頭客車、特にひどいな――おい、探すんだ。生存者を探して救助しろ」",
+			"「ぅ……む――これは――先頭客車、特にひどいな――おい、探すんだ。生存者を探して救助しろ」"
+		],
+		[
+			"Imperial Rail Worker B",
+			"\"God... the first %l客車;#00ffc040;passenger car%l;#; looks really bad... Hey! Come on, we need to locate and rescue any survivors!\"",
+			"\"God... the first passenger car looks really bad... Hey! Come on, we need to locate and rescue any survivors!\"",
+			"\"God... the first passenger car looks really bad... Hey! Come on, we need to locate and rescue any survivors!\""
+		]
+	],
+	[
+		[
+			null,
+			"……………………………………………………………………\\n……………………………………………………………………",
+			"…………………………………………………………………………………………………………………………………………",
+			"…………………………………………………………………………………………………………………………………………"
+		],
+		[
+			null,
+			"...... "
+		]
+	],
+	[
+		[
+			null,
+			"……声、誰かの声が聞こえる。\\n……感じる……手……誰かが、僕を……ゆすってる。",
+			"……声、誰かの声が聞こえる。……感じる……手……誰かが、僕を……ゆすってる。",
+			"……声、誰かの声が聞こえる。……感じる……手……誰かが、僕を……ゆすってる。"
+		],
+		[
+			null,
+			"A voice... I hear a voice. I feel... a hand. Someone is shaking me. "
+		]
+	],
+	[
+		[
+			null,
+			"なら、僕……生きてる……\\n僕だけ……僕の、はんぶんは――",
+			"なら、僕……生きてる……僕だけ……僕の、はんぶんは――",
+			"なら、僕……生きてる……僕だけ……僕の、はんぶんは――"
+		],
+		[
+			null,
+			"Then... I'm alive... But my... "
+		]
+	],
+	[
+		[
+			"生存者",
+			"「み……ち……」"
+		],
+		[
+			"Survivor",
+			"\"Mi...chi...\""
+		]
+	],
+	[
+		[
+			null,
+			"「いました！　生存者！\\n呼吸ありますが――重症ですっ」",
+			"「いました！　生存者！呼吸ありますが――重症ですっ」",
+			"「いました！　生存者！呼吸ありますが――重症ですっ」"
+		],
+		[
+			"Imperial Rail Worker C",
+			"\"I found a survivor! He's breathing, but he's seriously injured.\""
+		]
+	],
+	[
+		[
+			null,
+			"「子供じゃないか！　おいっ、君！」"
+		],
+		[
+			"Imperial Rail Worker A",
+			"\"He's only a child! Hey, you!\""
+		]
+	],
+	[
+		[
+			null,
+			"「ダメです！　動かさないで！　頭から出血しています」"
+		],
+		[
+			"Imperial Rail Worker C",
+			"\"Wait! Don't move him! He's bleeding from the head!\""
+		]
+	],
+	[
+		[
+			null,
+			"……出血、僕の、頭……から。\\nなら、このまま――けど……………………",
+			"……出血、僕の、頭……から。なら、このまま――けど……………………",
+			"……出血、僕の、頭……から。なら、このまま――けど……………………"
+		],
+		[
+			null,
+			"Bleeding... from my head... Maybe I should just head to the light... "
+		]
+	],
+	[
+		[
+			null,
+			"それじゃあ、みちが――\\n僕を、突き飛ばしてくれた[いもうと,1]路子が――",
+			"それじゃあ、みちが――僕を、突き飛ばしてくれたいもうとが――",
+			"それじゃあ、みちが――僕を、突き飛ばしてくれた路子が――"
+		],
+		[
+			null,
+			"But then this means Michi... Michiko, my sister, pushed me to safety... "
+		]
+	],
+	[
+		[
+			null,
+			"「止血しろ！　助けるんだ！　早くっ！」"
+		],
+		[
+			"Imperial Rail Worker A",
+			"\"Stop the bleeding and get him some help! Hurry!\""
+		]
+	],
+	[
+		[
+			null,
+			"「もちろんです！　\\nですが――、一刻も早く病院につれていかないとっ」",
+			"「もちろんです！　ですが――、一刻も早く病院につれていかないとっ」",
+			"「もちろんです！　ですが――、一刻も早く病院につれていかないとっ」"
+		],
+		[
+			"Imperial Rail Worker C",
+			"\"I know! We have to get him to a hospital immediately.\""
+		]
+	],
+	[
+		[
+			null,
+			"「どう移送する！？　救援車は一番近くて[こうづ,2]国兎津だぞ！\\n徒歩で%l保線;#00ffc040;保線%l;#;基地まで戻った方がまだ早い！」",
+			"「どう移送する！？　救援車は一番近くてこうづだぞ！徒歩で保線基地まで戻った方がまだ早い！」",
+			"「どう移送する！？　救援車は一番近くて国兎津だぞ！徒歩で保線基地まで戻った方がまだ早い！」"
+		],
+		[
+			"Imperial Rail Worker A",
+			"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the %l保線;#00ffc040;track maintenance%l;#; outpost on foot!\"",
+			"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the track maintenance outpost on foot!\"",
+			"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the track maintenance outpost on foot!\""
+		]
+	],
+	[
+		[
+			null,
+			"「無理です！　それではとても保たないっ」"
+		],
+		[
+			"Imperial Rail Worker C",
+			"\"We can't do that! He won't last that long!\""
+		]
+	],
+	[
+		[
+			null,
+			"「ならどうしろとっ！！」"
+		],
+		[
+			"Imperial Rail Worker A",
+			"\"Then what are we supposed to do?!\""
+		]
+	],
+	[
+		[
+			null,
+			"……ダメ、だ。\\n聞いてること、意味、わからない。",
+			"……ダメ、だ。聞いてること、意味、わからない。",
+			"……ダメ、だ。聞いてること、意味、わからない。"
+		],
+		[
+			null,
+			"It's no use... I have no idea what they're saying. "
+		]
+	],
+	[
+		[
+			null,
+			"…………なんで、こんなに眠いんだ――\\nさっきまで、僕……寝てた、の、に…………",
+			"…………なんで、こんなに眠いんだ――さっきまで、僕……寝てた、の、に…………",
+			"…………なんで、こんなに眠いんだ――さっきまで、僕……寝てた、の、に…………"
+		],
+		[
+			null,
+			"Why do I feel so sleepy? I was just sleeping earlier... "
+		]
+	],
+	[
+		[
+			"帝鉄職員Ｂ",
+			"「支社に%lエアクラ;#00ffc040;エアクラ%l;#;――飛ぶ奴、試作機があるだろう。\\nあれを要請しろ」",
+			"「支社にエアクラ――飛ぶ奴、試作機があるだろう。あれを要請しろ」",
+			"「支社にエアクラ――飛ぶ奴、試作機があるだろう。あれを要請しろ」"
+		],
+		[
+			"Imperial Rail Worker B",
+			"\"Wait, the %lエアクラ;#00ffc040;aircra%l;#;! The flying prototype is at the branch office, right? Ask them to send that!\"",
+			"\"Wait, the aircra! The flying prototype is at the branch office, right? Ask them to send that!\"",
+			"\"Wait, the aircra! The flying prototype is at the branch office, right? Ask them to send that!\""
+		]
+	],
+	[
+		[
+			null,
+			"「あの試作機か！　いや、だが――この風雨だぞっ！？」"
+		],
+		[
+			"Imperial Rail Worker A",
+			"\"That prototype? In this weather!?\""
+		]
+	],
+	[
+		[
+			"帝鉄職員Ｂ",
+			"「無人で飛ばせ。たとえ落ちても誰も死なん。\\n放っておけばこの子は死ぬ。考える余地があるか？」",
+			"「無人で飛ばせ。たとえ落ちても誰も死なん。放っておけばこの子は死ぬ。考える余地があるか？」",
+			"「無人で飛ばせ。たとえ落ちても誰も死なん。放っておけばこの子は死ぬ。考える余地があるか？」"
+		],
+		[
+			"Imperial Rail Worker B",
+			"\"Have them send it over unmanned, then. That way, if it crashes, nobody will die. If we leave the kid like this, though, he'll die for sure! What other choice do we have!?\""
+		]
+	],
+	[
+		[
+			null,
+			"「わかった！　この子の命が最優先だと要請しよう。\\nおいキミ、頑張れ。試作機が来るまで死ぬんじゃないぞ」",
+			"「わかった！　この子の命が最優先だと要請しよう。おいキミ、頑張れ。試作機が来るまで死ぬんじゃないぞ」",
+			"「わかった！　この子の命が最優先だと要請しよう。おいキミ、頑張れ。試作機が来るまで死ぬんじゃないぞ」"
+		],
+		[
+			"Imperial Rail Worker A",
+			"\"All right! I'll request for it and make the boy's life top priority. Hang in there, kid! You better not die before the prototype gets here!\""
+		]
+	],
+	[
+		[
+			null,
+			"「死なせませんよ！　死なせませんともっ！！」"
+		],
+		[
+			"Imperial Rail Worker C",
+			"\"I won't let him die! I refuse to let him die here!\""
+		]
+	],
+	[
+		[
+			"帝鉄職員Ｂ",
+			"「飛ばせ、飛ばすんだ、飛行型をっ。\\nこの子の命が最優先だ、なにを置いても飛ばさせろ！」",
+			"「飛ばせ、飛ばすんだ、飛行型をっ。この子の命が最優先だ、なにを置いても飛ばさせろ！」",
+			"「飛ばせ、飛ばすんだ、飛行型をっ。この子の命が最優先だ、なにを置いても飛ばさせろ！」"
+		],
+		[
+			"Imperial Rail Worker B",
+			"\"Get the prototype airborne! The kid's life is the highest priority; they've got to get it to fly, no matter what!\""
+		]
+	],
+	[
+		[
+			null,
+			"「双鉄様。問題なく雨雲を抜けました」"
+		],
+		[
+			"Navi",
+			"\"Sotetsu-sama, we have passed through the storm.\""
+		]
+	],
+	[
+		[
+			null,
+			"「…………」"
+		],
+		[
+			"Sotetsu",
+			"\"......\""
+		]
+	],
+	[
+		[
+			null,
+			"「が、雨雲を突っ切れとのご命令は今後お控えください。\\nナビは、双鉄様の命を最優先として判断します」",
+			"「が、雨雲を突っ切れとのご命令は今後お控えください。ナビは、双鉄様の命を最優先として判断します」",
+			"「が、雨雲を突っ切れとのご命令は今後お控えください。ナビは、双鉄様の命を最優先として判断します」"
+		],
+		[
+			"Navi",
+			"\"But please refrain from ordering me to head straight through the storm next time. As your navigation system, your well-being is my top priority.\""
+		]
+	],
+	[
+		[
+			null,
+			"「…………」"
+		],
+		[
+			"Sotetsu",
+			"\"......\""
+		]
+	],
+	[
+		[
+			null,
+			"「双鉄様の『急ぎなので、無理をしても』とのご命令と、\\n双鉄様の命を最優先することとには、矛盾があります」",
+			"「双鉄様の『急ぎなので、無理をしても』とのご命令と、双鉄様の命を最優先することとには、矛盾があります」",
+			"「双鉄様の『急ぎなので、無理をしても』とのご命令と、双鉄様の命を最優先することとには、矛盾があります」"
+		],
+		[
+			"Navi",
+			"\"Your order of 'being in a rush so I must do whatever it takes' and prioritizing your life conflict with each other.\""
+		]
+	],
+	[
+		[
+			null,
+			"「…………」"
+		],
+		[
+			"Sotetsu",
+			"\"......\""
+		]
+	],
+	[
+		[
+			null,
+			"「矛盾の判断には大きな思考能力を必要とし、\\nその負荷が双鉄様の安全を脅かすという……双鉄様？」",
+			"「矛盾の判断には大きな思考能力を必要とし、その負荷が双鉄様の安全を脅かすという……双鉄様？」",
+			"「矛盾の判断には大きな思考能力を必要とし、その負荷が双鉄様の安全を脅かすという……双鉄様？」"
+		],
+		[
+			"Navi",
+			"\"Making a decision with conflicting information requires much processing power... And that additional load may put your life in danger, Sotetsu-sama... Sotetsu-sama?\""
+		]
+	],
+	[
+		[
+			null,
+			"「うん。すまない。少し寝ていた」"
+		],
+		[
+			"Sotetsu",
+			"\"Yeah, I know. Sorry, I was sleeping.\""
+		]
+	],
+	[
+		[
+			null,
+			"「これはこれは。\\n起こしてしまいましたか。すみません」",
+			"「これはこれは。起こしてしまいましたか。すみません」",
+			"「これはこれは。起こしてしまいましたか。すみません」"
+		],
+		[
+			"Navi",
+			"\"Oh, my. My apologies if I woke you up.\""
+		]
+	],
+	[
+		[
+			null,
+			"「意図的だろう？\\n僕は、うなされていたのだろうな」",
+			"「意図的だろう？僕は、うなされていたのだろうな」",
+			"「意図的だろう？僕は、うなされていたのだろうな」"
+		],
+		[
+			"Sotetsu",
+			"\"You did it on purpose. I must have been having a nightmare.\""
+		]
+	],
+	[
+		[
+			null,
+			"「意図的などと、ご冗談を。ナビは物です。物品です。\\n何を意図することもございません」",
+			"「意図的などと、ご冗談を。ナビは物です。物品です。何を意図することもございません」",
+			"「意図的などと、ご冗談を。ナビは物です。物品です。何を意図することもございません」"
+		],
+		[
+			"Navi",
+			"\"On purpose? Surely, you jest. I am just a thing—an inanimate object. There is nothing for me to 'intend' on doing.\""
+		]
+	],
+	[
+		[
+			null,
+			"「うむ、そうか。\\nお前がそういうのなら、そうなのだろうな」",
+			"「うむ、そうか。お前がそういうのなら、そうなのだろうな」",
+			"「うむ、そうか。お前がそういうのなら、そうなのだろうな」"
+		],
+		[
+			"Sotetsu",
+			"\"I see. If you say so, I guess that's how it is.\""
+		]
+	],
+	[
+		[
+			null,
+			"「はい、左様です。\\nナビは単なる[ドライバー,3]操縦機器ですので」",
+			"「はい、左様です。ナビは単なるドライバーですので」",
+			"「はい、左様です。ナビは単なる操縦機器ですので」"
+		],
+		[
+			"Navi",
+			"\"Correct. I am Navi. I am only a driver.\""
+		]
+	],
+	[
+		[
+			null,
+			"「訂正しておけ。お前は――ナビは、\\n“単なる”ではなく、最上級のドライバーだ」",
+			"「訂正しておけ。お前は――ナビは、“単なる”ではなく、最上級のドライバーだ」",
+			"「訂正しておけ。お前は――ナビは、“単なる”ではなく、最上級のドライバーだ」"
+		],
+		[
+			"Sotetsu",
+			"\"Correct yourself, Navi... You're not 'only' a driver. You're the best driver there is.\""
+		]
+	],
+	[
+		[
+			null,
+			"「ご命令を了解しました。\\nナビは、双鉄様の基準においては最上級の[ドライバー,3]操縦機器です」",
+			"「ご命令を了解しました。ナビは、双鉄様の基準においては最上級のドライバーです」",
+			"「ご命令を了解しました。ナビは、双鉄様の基準においては最上級の操縦機器です」"
+		],
+		[
+			"Navi",
+			"\"Understood. I am the best driver by your standards, Sotetsu-sama.\""
+		]
+	],
+	[
+		[
+			null,
+			"「かわいくないな」"
+		],
+		[
+			"Sotetsu",
+			"\"Wow, getting cheeky with me now, huh?\""
+		]
+	],
+	[
+		[
+			null,
+			"「物品ですので」"
+		],
+		[
+			"Navi",
+			"\"Because I am but an object.\""
+		]
+	],
+	[
+		[
+			null,
+			"……物との会話。\\nあるいは、ただの独り言。",
+			"……物との会話。あるいは、ただの独り言。",
+			"……物との会話。あるいは、ただの独り言。"
+		],
+		[
+			null,
+			"Talking with a thing. Or perhaps I'm just talking to myself. "
+		]
+	],
+	[
+		[
+			null,
+			"だとしても、\\n鈍り、曇り、沈みかけていた心が少し、浮き上がる。",
+			"だとしても、鈍り、曇り、沈みかけていた心が少し、浮き上がる。",
+			"だとしても、鈍り、曇り、沈みかけていた心が少し、浮き上がる。"
+		],
+		[
+			null,
+			"Even so... My dulling, clouding, and sinking heart had begun to rise again. "
+		]
+	],
+	[
+		[
+			null,
+			"（夢から覚めて……\\n現実もまた、夢の続きか）",
+			"（夢から覚めて……現実もまた、夢の続きか）",
+			"（夢から覚めて……現実もまた、夢の続きか）"
+		],
+		[
+			null,
+			"(Even after waking from the dream... reality is just a continuation of it.) "
+		]
+	],
+	[
+		[
+			null,
+			"あの事故のときと同様に、\\nナビに、救い上げられている。",
+			"あの事故のときと同様に、ナビに、救い上げられている。",
+			"あの事故のときと同様に、ナビに、救い上げられている。"
+		],
+		[
+			null,
+			"Just like during the accident... Navi has saved me again. "
+		]
+	],
+	[
+		[
+			null,
+			"そうして、[おひとよ,2]御一夜――\\n眼下に広がるこの町も、僕を間違いなく救ってくれた。",
+			"そうして、おひとよ――眼下に広がるこの町も、僕を間違いなく救ってくれた。",
+			"そうして、御一夜――眼下に広がるこの町も、僕を間違いなく救ってくれた。"
+		],
+		[
+			null,
+			"Here in Ohitoyo... This town below is what saved my life. "
+		]
+	],
+	[
+		[
+			null,
+			"「……何年ぶりになるか」"
+		],
+		[
+			"Sotetsu",
+			"\"How many years has it been?\""
+		]
+	],
+	[
+		[
+			null,
+			"「六年四ヶ月ぶりです、双鉄様」　"
+		],
+		[
+			"Navi",
+			"\"Six years and four months, Sotetsu-sama.\""
+		]
+	],
+	[
+		[
+			null,
+			"上空から見下ろす御一夜の町並みは、\\n出て行ったときと、何も変わっていないように見える。",
+			"上空から見下ろす御一夜の町並みは、出て行ったときと、何も変わっていないように見える。",
+			"上空から見下ろす御一夜の町並みは、出て行ったときと、何も変わっていないように見える。"
+		],
+		[
+			null,
+			"The town of Ohitoyo below me... seems like it hasn't changed since I left. "
+		]
+	],
+	[
+		[
+			null,
+			"「六年四ヶ月」"
+		],
+		[
+			"Sotetsu",
+			"\"Six years and four months...\""
+		]
+	],
+	[
+		[
+			null,
+			"だが――その内側は変わりつつある。\\n僕の帰還を余儀なくするほど。",
+			"だが――その内側は変わりつつある。僕の帰還を余儀なくするほど。",
+			"だが――その内側は変わりつつある。僕の帰還を余儀なくするほど。"
+		],
+		[
+			null,
+			"But there was change occurring from within. That's what's forced me to come back. "
+		]
+	],
+	[
+		[
+			null,
+			"「何かが変わるには十分な時間――いや。\\n変わらずにいるには、長すぎる時間なのかもしれない」",
+			"「何かが変わるには十分な時間――いや。変わらずにいるには、長すぎる時間なのかもしれない」",
+			"「何かが変わるには十分な時間――いや。変わらずにいるには、長すぎる時間なのかもしれない」"
+		],
+		[
+			"Sotetsu",
+			"\"That's enough time for things to change... No... that's enough time for change to be long overdue.\""
+		]
+	],
+	[
+		[
+			null,
+			"「ご命令を了解しました。\\n同期間における御一夜市の変化をご報告します」",
+			"「ご命令を了解しました。同期間における御一夜市の変化をご報告します」",
+			"「ご命令を了解しました。同期間における御一夜市の変化をご報告します」"
+		],
+		[
+			"Navi",
+			"\"Understood. Reporting on the changes of Ohitoyo that occurred in the period.\""
+		]
+	],
+	[
+		[
+			null,
+			"感傷的にすぎてしまったかもしれない呟きを――\\n“意図的”に、ナビは曲解して返す。",
+			"感傷的にすぎてしまったかもしれない呟きを――“意図的”に、ナビは曲解して返す。",
+			"感傷的にすぎてしまったかもしれない呟きを――“意図的”に、ナビは曲解して返す。"
+		],
+		[
+			null,
+			"My mumbling may have sounded sentimental. Navi \"purposely\" misinterprets that and responds to me. "
+		]
+	],
+	[
+		[
+			null,
+			"「行政に関しての最大の変化は、市長です。\\n現在の市長には[ひない,1]雛衣・ポーレットが就任しています」",
+			"「行政に関しての最大の変化は、市長です。現在の市長にはひない・ポーレットが就任しています」",
+			"「行政に関しての最大の変化は、市長です。現在の市長には雛衣・ポーレットが就任しています」"
+		],
+		[
+			"Navi",
+			"\"The largest change in governance is the mayor. The post of mayor has been taken by Paulette Hinai.\""
+		]
+	],
+	[
+		[
+			null,
+			"「[ひない,1]雛衣というと、前の市長の？」",
+			"「ひないというと、前の市長の？」",
+			"「雛衣というと、前の市長の？」"
+		],
+		[
+			"Sotetsu",
+			"\"Hinai? So she's related to the previous mayor?\""
+		]
+	],
+	[
+		[
+			null,
+			"「はい。ご息女です。\\nしかし、行政手腕は遺伝しなかったとの評判です」",
+			"「はい。ご息女です。しかし、行政手腕は遺伝しなかったとの評判です」",
+			"「はい。ご息女です。しかし、行政手腕は遺伝しなかったとの評判です」"
+		],
+		[
+			"Navi",
+			"\"Correct. She is the daughter. But people say that the abilities of the previous mayor did not transfer to her.\""
+		]
+	],
+	[
+		[
+			null,
+			"「世評が無能と断じているのは、前職か？　現職か？」"
+		],
+		[
+			"Sotetsu",
+			"\"Which are the people calling incompetent: the previous mayor or the current one?\""
+		]
+	],
+	[
+		[
+			null,
+			"「後者のようです、双鉄様」"
+		],
+		[
+			"Navi",
+			"\"The latter, Sotetsu-sama.\""
+		]
+	],
+	[
+		[
+			null,
+			"「なるほど。それゆえ、御一夜は衰退し、\\n%lエアクラ;#00ffc040;エアクラ%l;#;工場の誘致話が持ち上がったわけか？」",
+			"「なるほど。それゆえ、御一夜は衰退し、エアクラ工場の誘致話が持ち上がったわけか？」",
+			"「なるほど。それゆえ、御一夜は衰退し、エアクラ工場の誘致話が持ち上がったわけか？」"
+		],
+		[
+			"Sotetsu",
+			"\"I see... So that's why Ohitoyo has taken a turn for the worse. And that's how talks came up about getting the %lエアクラ;#00ffc040;aircra%l;#; factory built here?\"",
+			"\"I see... So that's why Ohitoyo has taken a turn for the worse. And that's how talks came up about getting the aircra factory built here?\"",
+			"\"I see... So that's why Ohitoyo has taken a turn for the worse. And that's how talks came up about getting the aircra factory built here?\""
+		]
+	],
+	[
+		[
+			null,
+			"「その詳細まではわかりかねます」"
+		],
+		[
+			"Navi",
+			"\"I do not know the specifics.\""
+		]
+	],
+	[
+		[
+			null,
+			"「おっと」"
+		],
+		[
+			"Sotetsu",
+			"\"Whoops.\""
+		]
+	],
+	[
+		[
+			null,
+			"声の調子は変わらない。"
+		],
+		[
+			null,
+			"The tone of voice remained the same."
+		]
+	],
+	[
+		[
+			null,
+			"が――少し怒って聞こえるのは、\\n僕の気のせいだけなのだろうか。",
+			"が――少し怒って聞こえるのは、僕の気のせいだけなのだろうか。",
+			"が――少し怒って聞こえるのは、僕の気のせいだけなのだろうか。"
+		],
+		[
+			null,
+			"But it seems to me that the Navi sounded a little angry. Or perhaps, it's just my imagination. "
+		]
+	],
+	[
+		[
+			null,
+			"「ナビ。お前も%lエアクラ;#00ffc040;エアクラ%l;#;の仲間だったな。\\n気を悪くしたか？」",
+			"「ナビ。お前もエアクラの仲間だったな。気を悪くしたか？」",
+			"「ナビ。お前もエアクラの仲間だったな。気を悪くしたか？」"
+		],
+		[
+			"Sotetsu",
+			"\"Navi, you're closely related to the %lエアクラ;#00ffc040;aircra%l;#;, right? Did I make you mad?\"",
+			"\"Navi, you're closely related to the aircra, right? Did I make you mad?\"",
+			"\"Navi, you're closely related to the aircra, right? Did I make you mad?\""
+		]
+	],
+	[
+		[
+			null,
+			"「まさか。ナビは物品ですので」"
+		],
+		[
+			"Navi",
+			"\"That's impossible; I am but an object.\""
+		]
+	],
+	[
+		[
+			null,
+			"%lエアクラ;#00ffc040;エアクラ%l;#;――正式名称をエアロクラフテック機関。\\nエアロ＝クラフテック社による“世界を変えた”発明品。",
+			"エアクラ――正式名称をエアロクラフテック機関。エアロ＝クラフテック社による“世界を変えた”発明品。",
+			"エアクラ――正式名称をエアロクラフテック機関。エアロ＝クラフテック社による“世界を変えた”発明品。"
+		],
+		[
+			null,
+			"%lエアクラ;#00ffc040;Aircra%l;#;, formally known as the aerocraftech engine. It was the invention by the Aero Craftech Company that changed the world. ",
+			"Aircra, formally known as the aerocraftech engine. It was the invention by the Aero Craftech Company that changed the world. ",
+			"Aircra, formally known as the aerocraftech engine. It was the invention by the Aero Craftech Company that changed the world. "
+		]
+	],
+	[
+		[
+			null,
+			"地磁気と太陽光とを利用する超高効率のその発動機は、\\n化石燃料エンジンをほぼ、駆逐した。",
+			"地磁気と太陽光とを利用する超高効率のその発動機は、化石燃料エンジンをほぼ、駆逐した。",
+			"地磁気と太陽光とを利用する超高効率のその発動機は、化石燃料エンジンをほぼ、駆逐した。"
+		],
+		[
+			null,
+			"The high efficiency motor uses terrestrial magnetism and solar energy to power itself... rendering fossil fuel engines mostly obsolete. "
+		]
+	],
+	[
+		[
+			null,
+			"「怒ってないなら良かったさ」"
+		],
+		[
+			"Sotetsu",
+			"\"Well, I'm glad you're not mad.\""
+		]
+	],
+	[
+		[
+			null,
+			"地上を行くもの、水面を行くもの、空を行くもの――"
+		],
+		[
+			null,
+			"Whether for things running on land, the seas, or the skies..."
+		]
+	],
+	[
+		[
+			null,
+			"%lエアクラ;#00ffc040;エアクラ%l;#;機関を使う乗り物全ても、機関同様、\\n単に“%lエアクラ;#00ffc040;エアクラ%l;#;”と総称される。",
+			"エアクラ機関を使う乗り物全ても、機関同様、単に“エアクラ”と総称される。",
+			"エアクラ機関を使う乗り物全ても、機関同様、単に“エアクラ”と総称される。"
+		],
+		[
+			null,
+			"All vehicles that use the %lエアクラ;#00ffc040;aircra%l;#; engine are simply called \"aircra\". ",
+			"All vehicles that use the aircra engine are simply called \"aircra\". ",
+			"All vehicles that use the aircra engine are simply called \"aircra\". "
+		]
+	],
+	[
+		[
+			null,
+			"「お前のように優秀なナビを、\\n敵に回したくはないからな」",
+			"「お前のように優秀なナビを、敵に回したくはないからな」",
+			"「お前のように優秀なナビを、敵に回したくはないからな」"
+		],
+		[
+			"Sotetsu",
+			"\"I wouldn't want someone as great as you, Navi... to turn against me.\""
+		]
+	],
+	[
+		[
+			null,
+			"「敵も味方も、双鉄様のご命令のままに。\\nナビはあくまで物品ですので」",
+			"「敵も味方も、双鉄様のご命令のままに。ナビはあくまで物品ですので」",
+			"「敵も味方も、双鉄様のご命令のままに。ナビはあくまで物品ですので」"
+		],
+		[
+			"Navi",
+			"\"Whether I'm your friend or not, it's up for you to decide, Sotetsu-sama. I am nothing but an object.\""
+		]
+	],
+	[
+		[
+			null,
+			"「ふむ」"
+		],
+		[
+			"Sotetsu",
+			"\"Hm...\""
+		]
+	],
+	[
+		[
+			null,
+			"ナビという物品。%lエアクラ;#00ffc040;エアクラ%l;#;・ナビ。\\n%lエアクラ;#00ffc040;エアクラ%l;#;とともに急発展し、一般にまで普及した擬似知能。",
+			"ナビという物品。エアクラ・ナビ。エアクラとともに急発展し、一般にまで普及した擬似知能。",
+			"ナビという物品。エアクラ・ナビ。エアクラとともに急発展し、一般にまで普及した擬似知能。"
+		],
+		[
+			null,
+			"\"Navi\" is what we call the %lエアクラ;#00ffc040;aircra%l;#; navigation system. This simulated intelligence quickly developed with the aircra and became commonplace. ",
+			"\"Navi\" is what we call the aircra navigation system. This simulated intelligence quickly developed with the aircra and became commonplace. ",
+			"\"Navi\" is what we call the aircra navigation system. This simulated intelligence quickly developed with the aircra and became commonplace. "
+		]
+	],
+	[
+		[
+			null,
+			"“%l共感;#00ffc040;共感%l;#;運用”というその最大の特徴は、\\n交通渋滞という概念を過去のものとした。",
+			"“共感運用”というその最大の特徴は、交通渋滞という概念を過去のものとした。",
+			"“共感運用”というその最大の特徴は、交通渋滞という概念を過去のものとした。"
+		],
+		[
+			null,
+			"The \"%l共感;#00ffc040;sympathetic connection%l;#;\" feature... made traffic gridlock a thing of the past. ",
+			"The \"sympathetic connection\" feature... made traffic gridlock a thing of the past. ",
+			"The \"sympathetic connection\" feature... made traffic gridlock a thing of the past. "
+		]
+	],
+	[
+		[
+			null,
+			"「お前たちは確かに便利な物品だよ。\\nナビと%lエアクラ;#00ffc040;エアクラ%l;#;なしでは、移動一つさえ大騒動だ」",
+			"「お前たちは確かに便利な物品だよ。ナビとエアクラなしでは、移動一つさえ大騒動だ」",
+			"「お前たちは確かに便利な物品だよ。ナビとエアクラなしでは、移動一つさえ大騒動だ」"
+		],
+		[
+			"Sotetsu",
+			"\"It's true that you guys are real convenient things. Without navis and %lエアクラ;#00ffc040;aircraft%l;#;, even simple travel would be a huge hassle.\"",
+			"\"It's true that you guys are real convenient things. Without navis and aircraft, even simple travel would be a huge hassle.\"",
+			"\"It's true that you guys are real convenient things. Without navis and aircraft, even simple travel would be a huge hassle.\""
+		]
+	],
+	[
+		[
+			null,
+			"「その便利な物品を作る工場を、双鉄様は、\\n御一夜に誘致してほしくはないとおっしゃっています」",
+			"「その便利な物品を作る工場を、双鉄様は、御一夜に誘致してほしくはないとおっしゃっています」",
+			"「その便利な物品を作る工場を、双鉄様は、御一夜に誘致してほしくはないとおっしゃっています」"
+		],
+		[
+			"Navi",
+			"\"And yet, Sotetsu-sama... You don't want the factory that builds such convenient things to be built in Ohitoyo.\""
+		]
+	],
+	[
+		[
+			null,
+			"事実確認。\\nの皮をかぶった、詰問としか聞こえない。",
+			"事実確認。の皮をかぶった、詰問としか聞こえない。",
+			"事実確認。の皮をかぶった、詰問としか聞こえない。"
+		],
+		[
+			null,
+			"Fact-checking. That's what this interrogation is veiled as. "
+		]
+	],
+	[
+		[
+			null,
+			"世間一般のナビよりも、\\nうちのはどうにも人間臭く思えてならない。",
+			"世間一般のナビよりも、うちのはどうにも人間臭く思えてならない。",
+			"世間一般のナビよりも、うちのはどうにも人間臭く思えてならない。"
+		],
+		[
+			null,
+			"This Navi appears to be much more human than the others that are sold. "
+		]
+	],
+	[
+		[
+			null,
+			"「エゴだがな。\\nこの光景を目にしてしまえば――」",
+			"「エゴだがな。この光景を目にしてしまえば――」",
+			"「エゴだがな。この光景を目にしてしまえば――」"
+		],
+		[
+			"Sotetsu",
+			"\"It's egotistical for me to think that. Just look at this scenery.\""
+		]
+	],
+	[
+		[
+			null,
+			"僕の意を酌み、ナビが機体を傾ける。"
+		],
+		[
+			null,
+			"Sensing my intention, Navi tilts the vehicle."
+		]
+	],
+	[
+		[
+			null,
+			"だから視線はすぐに捉える――眼下を流れる光の帯を。\\n太陽の煌きを豊かに返す、御一夜の象徴、クマ川を。",
+			"だから視線はすぐに捉える――眼下を流れる光の帯を。太陽の煌きを豊かに返す、御一夜の象徴、クマ川を。",
+			"だから視線はすぐに捉える――眼下を流れる光の帯を。太陽の煌きを豊かに返す、御一夜の象徴、クマ川を。"
+		],
+		[
+			null,
+			"My sight quickly finds what I was looking for. The belt of light that flows beneath. The glitter of the sunlight reflects on the symbol of Ohitoyo, the Kuma River. "
+		]
+	],
+	[
+		[
+			null,
+			"「御一夜以外に作って欲しいと思わずにはいられんのだ。\\nここは、僕のもうひとつの故郷なのだから」",
+			"「御一夜以外に作って欲しいと思わずにはいられんのだ。ここは、僕のもうひとつの故郷なのだから」",
+			"「御一夜以外に作って欲しいと思わずにはいられんのだ。ここは、僕のもうひとつの故郷なのだから」"
+		],
+		[
+			"Sotetsu",
+			"\"I can't help but want them to build it elsewhere. Because this place is like my second home.\""
+		]
+	],
+	[
+		[
+			null,
+			"「承知しています。まもなく、目的地の[みぎたいちしゅぞうもと,5]右田一酒造元です。\\n上空を一度通過しますか？」",
+			"「承知しています。まもなく、目的地のみぎたいちしゅぞうもとです。上空を一度通過しますか？」",
+			"「承知しています。まもなく、目的地の右田一酒造元です。上空を一度通過しますか？」"
+		],
+		[
+			"Navi",
+			"\"I know. We'll be arriving soon at the destination, Migita No. 1 Brewery. Would you like to pass by above?\""
+		]
+	],
+	[
+		[
+			null,
+			"「そうだな、着水前に一度上から見ておこう」"
+		],
+		[
+			"Sotetsu",
+			"\"Yeah. Let's take a look from above before setting down in the water.\""
+		]
+	],
+	[
+		[
+			null,
+			"「ご命令を了解しました」"
+		],
+		[
+			"Navi",
+			"\"Understood.\""
+		]
+	],
+	[
+		[
+			null,
+			"機体姿勢を即座に戻し、けれど航路は変更しない。"
+		],
+		[
+			null,
+			"The vehicle becomes upright again, but there is no change in path."
+		]
+	],
+	[
+		[
+			null,
+			"どうやら僕の“ご命令”は、\\nあらかじめ予測されていたらしい。",
+			"どうやら僕の“ご命令”は、あらかじめ予測されていたらしい。",
+			"どうやら僕の“ご命令”は、あらかじめ予測されていたらしい。"
+		],
+		[
+			null,
+			"It seems that my \"order\" was already forecasted in the beginning. "
+		]
+	],
+	[
+		[
+			null,
+			"「目的地上空です」"
+		],
+		[
+			"Navi",
+			"\"We are above our destination.\""
+		]
+	],
+	[
+		[
+			null,
+			"「言われずともだ」"
+		],
+		[
+			"Sotetsu",
+			"\"I can tell.\""
+		]
+	],
+	[
+		[
+			null,
+			"見間違えようはずもない。\\n古ぼけた瓦屋根、庭にずらりと並んだタンク。",
+			"見間違えようはずもない。古ぼけた瓦屋根、庭にずらりと並んだタンク。",
+			"見間違えようはずもない。古ぼけた瓦屋根、庭にずらりと並んだタンク。"
+		],
+		[
+			null,
+			"There's no way I would mistake that. The old roof tiles, the multiple tanks that line the garden... "
+		]
+	],
+	[
+		[
+			null,
+			"生家という言葉に習うのならば、僕の育家である\\n――右田一酒造元の、その姿を。",
+			"生家という言葉に習うのならば、僕の育家である――右田一酒造元の、その姿を。",
+			"生家という言葉に習うのならば、僕の育家である――右田一酒造元の、その姿を。"
+		],
+		[
+			null,
+			"It may not be the house I was born in, but it certainly is where I grew up. This is the No. 1 Migita Brewery. "
+		]
+	],
+	[
+		[
+			null,
+			"「高度を下げた方がよろしいでしょうか？」"
+		],
+		[
+			"Navi",
+			"\"Shall I reduce the altitude?\""
+		]
+	],
+	[
+		[
+			null,
+			"「いや、仕事の邪魔になっては――おや？」"
+		],
+		[
+			"Sotetsu",
+			"\"No, I don't want to interfere with their work... Oh?\""
+		]
+	],
+	[
+		[
+			null,
+			"はるか眼下に、豆粒のような人影が、\\nなのに大きく動いている。",
+			"はるか眼下に、豆粒のような人影が、なのに大きく動いている。",
+			"はるか眼下に、豆粒のような人影が、なのに大きく動いている。"
+		],
+		[
+			null,
+			"I see a shadow the size of a dot far below. It's moving wildly. "
+		]
+	],
+	[
+		[
+			null,
+			"ぴょこぴょこ飛び跳ね、\\nそれからダっ、と、蔵の中へと駆け込んでいく。",
+			"ぴょこぴょこ飛び跳ね、それからダっ、と、蔵の中へと駆け込んでいく。",
+			"ぴょこぴょこ飛び跳ね、それからダっ、と、蔵の中へと駆け込んでいく。"
+		],
+		[
+			null,
+			"It starts to hop around... And suddenly, it darts into the brewery. "
+		]
+	],
+	[
+		[
+			null,
+			"「[ひびき,2]日々姫か。相変わらずの様子だな。\\n少しは大人になったかと想像していたのだが」",
+			"「ひびきか。相変わらずの様子だな。少しは大人になったかと想像していたのだが」",
+			"「日々姫か。相変わらずの様子だな。少しは大人になったかと想像していたのだが」"
+		],
+		[
+			"Sotetsu",
+			"\"It must be Hibiki. Some people never change. I'd imagined that she would've matured a bit after all these years.\""
+		]
+	],
+	[
+		[
+			null,
+			"「明確な変化が見られます。\\n以前の日々姫様には無い行動です」",
+			"「明確な変化が見られます。以前の日々姫様には無い行動です」",
+			"「明確な変化が見られます。以前の日々姫様には無い行動です」"
+		],
+		[
+			"Navi",
+			"\"I see a clear change. Miss Hibiki would not have done this before.\""
+		]
+	],
+	[
+		[
+			null,
+			"「ああ――なるほど、確かに」"
+		],
+		[
+			"Sotetsu",
+			"\"Ah, I see. I guess you're right.\""
+		]
+	],
+	[
+		[
+			null,
+			"以前のままの日々姫ならば、\\n“蔵へ駆け込み報告をする”などと決してしなかったろう。",
+			"以前のままの日々姫ならば、“蔵へ駆け込み報告をする”などと決してしなかったろう。",
+			"以前のままの日々姫ならば、“蔵へ駆け込み報告をする”などと決してしなかったろう。"
+		],
+		[
+			null,
+			"Hibiki in the past... wouldn't even have gone into the brewery to report. "
+		]
+	],
+	[
+		[
+			null,
+			"良くて、機影をそのまま追ったか……\\n虫の居所が悪ければ、知らん顔さえしたかもしれない。",
+			"良くて、機影をそのまま追ったか……虫の居所が悪ければ、知らん顔さえしたかもしれない。",
+			"良くて、機影をそのまま追ったか……虫の居所が悪ければ、知らん顔さえしたかもしれない。"
+		],
+		[
+			null,
+			"She would've just blindly run after the aircraft. If she were in a bad mood, she may have flat-out ignored it. "
+		]
+	],
+	[
+		[
+			null,
+			"「ならば、実地で確かめるとしよう。\\nナビ、最適地点に着水してくれ」",
+			"「ならば、実地で確かめるとしよう。ナビ、最適地点に着水してくれ」",
+			"「ならば、実地で確かめるとしよう。ナビ、最適地点に着水してくれ」"
+		],
+		[
+			"Sotetsu",
+			"\"Let's find out for ourselves. Navi, land in an optimum spot.\""
+		]
+	],
+	[
+		[
+			null,
+			"「ご命令を了解しました。\\n着水地点をサーチします」",
+			"「ご命令を了解しました。着水地点をサーチします」",
+			"「ご命令を了解しました。着水地点をサーチします」"
+		],
+		[
+			"Navi",
+			"\"Understood. Searching for ideal landing spot.\""
+		]
+	],
+	[
+		[
+			null,
+			"“試作機”だった%lエアクラ;#00ffc040;エアクラ%l;#;は、静かに高度を下げていく。",
+			"“試作機”だったエアクラは、静かに高度を下げていく。",
+			"“試作機”だったエアクラは、静かに高度を下げていく。"
+		],
+		[
+			null,
+			"This former prototype %lエアクラ;#00ffc040;aircra%l;#; quietly descends.",
+			"This former prototype aircra quietly descends.",
+			"This former prototype aircra quietly descends."
+		]
+	],
+	[
+		[
+			null,
+			"十数年前の技術の粋は、\\nいまだ、わずかな錆さえ見せない。",
+			"十数年前の技術の粋は、いまだ、わずかな錆さえ見せない。",
+			"十数年前の技術の粋は、いまだ、わずかな錆さえ見せない。"
+		],
+		[
+			null,
+			"Despite being the product of technology from over a decade ago... it shows no sign of slowing down. "
+		]
+	],
+	[
+		[
+			null,
+			"「あと120秒で着水します。\\n着水後は%l駐機;#00ffc040;駐機%l;#;モードに移行してよろしいですか？」",
+			"「あと120秒で着水します。着水後は駐機モードに移行してよろしいですか？」",
+			"「あと120秒で着水します。着水後は駐機モードに移行してよろしいですか？」"
+		],
+		[
+			"Navi",
+			"\"One hundred and twenty seconds until landing. Would you like to transfer to %l駐機;#00ffc040;park%l;#; mode upon landing?\"",
+			"\"One hundred and twenty seconds until landing. Would you like to transfer to park mode upon landing?\"",
+			"\"One hundred and twenty seconds until landing. Would you like to transfer to park mode upon landing?\""
+		]
+	],
+	[
+		[
+			null,
+			"「うむ。頼む」"
+		],
+		[
+			"Sotetsu",
+			"\"Yes, please.\""
+		]
+	],
+	[
+		[
+			null,
+			"「ご命令を了解しました。\\n着水後、%l駐機;#00ffc040;駐機%l;#;モードに移行します」",
+			"「ご命令を了解しました。着水後、駐機モードに移行します」",
+			"「ご命令を了解しました。着水後、駐機モードに移行します」"
+		],
+		[
+			"Navi",
+			"\"Understood. Transferring to %l駐機;#00ffc040;park%l;#; mode upon landing.\"",
+			"\"Understood. Transferring to park mode upon landing.\"",
+			"\"Understood. Transferring to park mode upon landing.\""
+		]
+	],
+	[
+		[
+			null,
+			"クマ川の水が近くなる。\\n上から青に見えていたのが、深い緑に見えてくる。",
+			"クマ川の水が近くなる。上から青に見えていたのが、深い緑に見えてくる。",
+			"クマ川の水が近くなる。上から青に見えていたのが、深い緑に見えてくる。"
+		],
+		[
+			null,
+			"The Kuma River draws closer. What appeared to be blue from above now looks a deep emerald. "
+		]
+	],
+	[
+		[
+			null,
+			"着水し、ナビの%l翼端;#00ffc040;翼端%l;#;を歩いて渡り岸に下りれば――\\n御一夜だ。",
+			"着水し、ナビの翼端を歩いて渡り岸に下りれば――御一夜だ。",
+			"着水し、ナビの翼端を歩いて渡り岸に下りれば――御一夜だ。"
+		],
+		[
+			null,
+			"After we set down in the water, I can walk on the %l翼端;#00ffc040;wing%l;#; to reach the shore and... I'll be back in Ohitoyo. ",
+			"After we set down in the water, I can walk on the wing to reach the shore and... I'll be back in Ohitoyo. ",
+			"After we set down in the water, I can walk on the wing to reach the shore and... I'll be back in Ohitoyo. "
+		]
+	],
+	[
+		[
+			null,
+			"「着水します。\\n双鉄様――」",
+			"「着水します。双鉄様――」",
+			"「着水します。双鉄様――」"
+		],
+		[
+			"Navi",
+			"\"Landing. Sotetsu-sama.\""
+		]
+	],
+	[
+		[
+			null,
+			"沈黙。\\nナビにはありえないほど、長い沈黙。",
+			"沈黙。ナビにはありえないほど、長い沈黙。",
+			"沈黙。ナビにはありえないほど、長い沈黙。"
+		],
+		[
+			null,
+			"Silence. A long silence unexpected from the navi. "
+		]
+	],
+	[
+		[
+			null,
+			"「どうした、ナビ？」"
+		],
+		[
+			"Sotetsu",
+			"\"What's wrong, Navi?\""
+		]
+	],
+	[
+		[
+			null,
+			"「『お疲れ様でした』と『いってらっしゃいませ』。\\nどちらが適正なご挨拶でしょうか？」",
+			"「『お疲れ様でした』と『いってらっしゃいませ』。どちらが適正なご挨拶でしょうか？」",
+			"「『お疲れ様でした』と『いってらっしゃいませ』。どちらが適正なご挨拶でしょうか？」"
+		],
+		[
+			"Navi",
+			"\"'Welcome back' or 'Farewell'... which is the more appropriate way to send you off?\""
+		]
+	],
+	[
+		[
+			null,
+			"「ああ」"
+		],
+		[
+			"Sotetsu",
+			"\"Oh.\""
+		]
+	],
+	[
+		[
+			null,
+			"帰宅したときは『お疲れ様』。\\n目的地についたときには『いってらっしゃい』。",
+			"帰宅したときは『お疲れ様』。目的地についたときには『いってらっしゃい』。",
+			"帰宅したときは『お疲れ様』。目的地についたときには『いってらっしゃい』。"
+		],
+		[
+			null,
+			"When someone returns home, the navigation system says \"Welcome back\". When someone gets to their destination, it says \"Farewell\". "
+		]
+	],
+	[
+		[
+			null,
+			"それが、ナビのデフォルトの挨拶だ。"
+		],
+		[
+			null,
+			"That's Navi's default greeting."
+		]
+	],
+	[
+		[
+			null,
+			"「お前に任せる。\\nどちらでもそう大差はないさ」",
+			"「お前に任せる。どちらでもそう大差はないさ」",
+			"「お前に任せる。どちらでもそう大差はないさ」"
+		],
+		[
+			"Sotetsu",
+			"\"I'll leave it up to you. It's not that different, to be honest.\""
+		]
+	],
+	[
+		[
+			null,
+			"「ご命令を了解しました。\\nそれでは、双鉄様」",
+			"「ご命令を了解しました。それでは、双鉄様」",
+			"「ご命令を了解しました。それでは、双鉄様」"
+		],
+		[
+			"Navi",
+			"\"Understood. Now, then, Sotetsu-sama.\""
+		]
+	],
+	[
+		[
+			null,
+			"そして、着水。\\n立ったであろう水音は、川の流れにかき消される。",
+			"そして、着水。立ったであろう水音は、川の流れにかき消される。",
+			"そして、着水。立ったであろう水音は、川の流れにかき消される。"
+		],
+		[
+			null,
+			"And we land. The watery splashes are drowned out by the flow of the river. "
+		]
+	],
+	[
+		[
+			null,
+			"「『どうぞ、お気をつけていってらっしゃいませ』」"
+		],
+		[
+			"Navi",
+			"\"Please take care.\""
+		]
+	]
+]

@@ -69094,7 +69094,7 @@
 							"Raillord",
 							"\"%l\u7802\u6492\u304d;#00ffc040;Sanding%l;#; confirmed, but I cannot detect any increase in %l\u7c98\u7740\u529b;#00ffc040;adhesion%l;#;. There is a risk of derailment; I advise reducing speed.\"",
 							"\"Sanding confirmed, but I cannot detect any increase in adhesion. There is a risk of derailment; I advise reducing speed.\"",
-							"\"Sanding confirmed, but I cannot detect any increase in adhesion. There is a risk of derailment; I advise reducing speed.\"",
+							"\"Sanding confirmed, but I cannot detect any increase in adhesion. There is a risk of derailment; I advise reducing speed.\""
 						]
 					],
 					[
@@ -69612,7 +69612,7 @@
 							"Engineer",
 							"\"I guess we have no choice. I really didn't want to miss the %l\u63a5\u7d9a;#00ffc040;connection%l;#; to Shizuoka, though.\"",
 							"\"I guess we have no choice. I really didn't want to miss the connection to Shizuoka, though.\"",
-							"\"I guess we have no choice. I really didn't want to miss the connection to Shizuoka, though.\"",
+							"\"I guess we have no choice. I really didn't want to miss the connection to Shizuoka, though.\""
 						]
 					],
 					[
@@ -70130,7 +70130,7 @@
 							"Raillord",
 							"\"I'll connect with the other %l\u30ec\u30a4\u30eb\u30ed\u30aa\u30c9;#00ffc040;Raillords%l;#; to notify them about our dela\u2014wait, what?! Can you repeat that?!\"",
 							"\"I'll connect with the other Raillords to notify them about our dela\u2014wait, what?! Can you repeat that?!\"",
-							"\"I'll connect with the other Raillords to notify them about our dela\u2014wait, what?! Can you repeat that?!\"",
+							"\"I'll connect with the other Raillords to notify them about our dela\u2014wait, what?! Can you repeat that?!\""
 						]
 					],
 					[
@@ -72192,7 +72192,7 @@
 							"Raillord",
 							"\"...! Apply full service %l\u5236\u52d5;#00ffc040;braking%l;#;.  I'll assist you so we can avoid %l\u6ed1\u8d70;#00ffc040;wheelslide%l;#;.\"",
 							"\"...! Apply full service braking! I'll assist you so we can avoid wheelslide.\"",
-							"\"...! Apply full service braking! I'll assist you so we can avoid wheelslide.\"",
+							"\"...! Apply full service braking! I'll assist you so we can avoid wheelslide.\""
 						]
 					],
 					[
@@ -73228,7 +73228,7 @@
 							"Raillord",
 							"\"...we're at the limit. We'll get %l\u6ed1\u8d70;#00ffc040;wheelslide%l;#; if we brake any harder, but we don't have enough braking power!\"",
 							"\"...we're at the limit. We'll get wheelslide if we brake any harder, but we don't have enough braking power!\"",
-							"\"...we're at the limit. We'll get wheelslide if we brake any harder, but we don't have enough braking power!\"",
+							"\"...we're at the limit. We'll get wheelslide if we brake any harder, but we don't have enough braking power!\""
 						]
 					],
 					[
@@ -73746,7 +73746,7 @@
 							"Engineer",
 							"\"You %l\u30ed\u30c3\u30af;#00ffc040;lapped%l;#; the brakes already? Just how poor is the %l\u7c98\u7740\u529b;#00ffc040;adhesion%l;#; here?\"",
 							"\"You lapped the brakes already? Just how poor is the adhesion here?\"",
-							"\"You lapped the brakes already? Just how poor is the adhesion here?\"",
+							"\"You lapped the brakes already? Just how poor is the adhesion here?\""
 						]
 					],
 					[
@@ -75294,7 +75294,7 @@
 							"Raillord",
 							"\"It's still unconfirmed, but the %l\u30ec\u30a4\u30eb\u30ed\u30aa\u30c9;#00ffc040;Raillord%l;#; from No. 9642 %l\u767a\u5831;#00ffc040;reports%l;#; that there's been an accident involving an %l\u5e1d\u9244\u8ca8\u7269;#00ffc040;Imperial Freight%l;#; train with a fifteen-car %l\u7de8\u6210;#00ffc040;consist%l;#;. It's possible that all the cars have been lost.\"",
 							"\"It's still unconfirmed, but the Raillord from No. 9642 reports that there's been an accident involving an Imperial Freight train with a fifteen-car consist. It's possible that all the cars have been lost.\"",
-							"\"It's still unconfirmed, but the Raillord from No. 9642 reports that there's been an accident involving an Imperial Freight train with a fifteen-car consist. It's possible that all the cars have been lost.\"",
+							"\"It's still unconfirmed, but the Raillord from No. 9642 reports that there's been an accident involving an Imperial Freight train with a fifteen-car consist. It's possible that all the cars have been lost.\""
 						]
 					],
 					[
@@ -76326,7 +76326,7 @@
 							"Raillord",
 							"\"No. 9642's %l\u30ec\u30a4\u30eb\u30ed\u30aa\u30c9;#00ffc040;Raillord%l;#; said that the bridge collapsed\u2014they were screaming that... the Fuji River Bridge collapsed.\"",
 							"\"No. 9642's Raillord said that the bridge collapsed\u2014they were screaming that... the Fuji River Bridge collapsed.\"",
-							"\"No. 9642's Raillord said that the bridge collapsed\u2014they were screaming that... the Fuji River Bridge collapsed.\"",
+							"\"No. 9642's Raillord said that the bridge collapsed\u2014they were screaming that... the Fuji River Bridge collapsed.\""
 						]
 					],
 					[
@@ -77591,7 +77591,7 @@
 							"Engineer",
 							"\"We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase %l\u5236\u52d5;#00ffc040;braking%l;#;!\"",
                             "We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase braking!",
-                            "We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase braking!",
+                            "We have passengers on board! I don't care if it's impossible, we need to stop this train no matter what! Here, you take the throttle, and increase braking!"
 						]
 					],
 					[
@@ -78800,7 +78800,7 @@
 							"Raillord",
 							"\"...it's no use! We're really at the limit now; we'll get %l\u6ed1\u8d70;#00ffc040;wheelslide%l;#; if we apply any more than this. We don't have enough %l\u5236\u52d5;#00ffc040;braking%l;#; power to stop!\"",
 							"\"...it's no use! We're really at the limit now; we'll get wheelslide if we apply any more than this. We don't have enough braking power to stop!\"",
-							"\"...it's no use! We're really at the limit now; we'll get wheelslide if we apply any more than this. We don't have enough braking power to stop!\"",
+							"\"...it's no use! We're really at the limit now; we'll get wheelslide if we apply any more than this. We don't have enough braking power to stop!\""
 						]
 					],
 					[
@@ -85472,7 +85472,7 @@
 							"Imperial Rail Worker A",
 							"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the %l\u4fdd\u7dda;#00ffc040;track maintenance%l;#; outpost on foot!\"",
 							"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the track maintenance outpost on foot!\"",
-							"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the track maintenance outpost on foot!\"",
+							"\"How are we supposed to move him!? The closest emergency vehicles are in Kouzu; it'd be faster to take him to the track maintenance outpost on foot!\""
 						]
 					],
 					[
