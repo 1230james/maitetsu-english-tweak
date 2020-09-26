@@ -1,7 +1,12 @@
 # Maitetsu English Tweak
 Fan-made tweaks to Sekai's English localization of Maitetsu.
 
-*More will be added to this README as the project progresses.*
+*This README may change at any time without notice as the project progresses.*
+
+## Downloads & Installation Instructions
+Downloads will be located on the [releases page](https://github.com/1230james/maitetsu-english-tweak/releases).
+
+Installation instructions will be bundled with or otherwise included alongside the downloads.
 
 ## Goals
 
@@ -12,6 +17,50 @@ Fan-made tweaks to Sekai's English localization of Maitetsu.
 * Offer separate American English and British English varieties.
 * Compatibility with Steam and non-Steam desktop editions of Maitetsu.
 * Will *not* include H-scene dialogue.
+
+## Progress
+If you're viewing this on the `master` branch, you are seeing the progress that the latest release covers.
+
+If you're viewing this on the `dev-master` branch, you are more-or-less seeing the progress that the latest commit cover.
+
+Be sure to view this section on the `dev-master` branch ([here](https://github.com/1230james/maitetsu-english-tweak/tree/dev-master)) for the most up-to-date progress information!
+
+**Currently Working On:** Common Route, Chapter 1, first pass
+
+**Coming Up Next:** Common Route, Chapter 1, second pass
+
+* American (US) Patch Progress:
+    * Glossary: 0%
+    * Common Route: 0%
+    * Hachiroku Route: 0%
+    * Paulette Route: 0%
+    * Hibiki Route: 0%
+    * Makura Route: 0%
+    * Kisaki Route: 0%
+    * Nagi/Fukami Route: 0%
+    * Reina Route: 0%
+    * Grand Route: 0%
+    
+* British (UK) Patch Progress:
+    * Glossary: 0%
+    * Common Route: 0%
+    * Hachiroku Route: 0%
+    * Paulette Route: 0%
+    * Hibiki Route: 0%
+    * Makura Route: 0%
+    * Kisaki Route: 0%
+    * Nagi/Fukami Route: 0%
+    * Reina Route: 0%
+    * Grand Route: 0%
+
+### Progress Calculation
+Mainly a note to myself, but also available for curious minds:
+
+`Glossary = (# Articles finished) / 183`
+
+`Route = 0.75 * ((# Chapters w/ first pass finished) / (Total # of chapters)) + 0.25 * ((# Chapters w/ 2+ passes finished) / (Total # of chapters))`
+
+Both values are floored (rounded down) to an integer after computation.
 
 ## Tools Used
 
@@ -27,6 +76,16 @@ Feel free to fork this repository and submit changes. If you have any questions 
 
 Non-programmers or anyone unfamiliar with Git, your contributions are still wanted! Consider looking up simple tutorials on using Git and GitHub, or forward your changes to the Maitetsu Fan Discord Server instead.
 
+Make sure you're reading this on the `dev-master` branch for the most up-to-date contribution instructions and information!
+
+### Branch Guide
+
+`master`: For releases, major changes, and changes to the repo's README only.
+
+`dev-master`: Master branch for all development work. Submit merge requests to this branch, please.
+
+`extractor-js`: *Stale*; separate work branch for developing `MaitetsuExtractor`. Will not be used unless I'm making major changes to `MaitetsuExtractor`.
+
 ### Directory Guide
 
 `en`: Files that are a part of both patches; i.e. they don't differ between the American and British English versions.
@@ -37,24 +96,47 @@ Non-programmers or anyone unfamiliar with Git, your contributions are still want
 
 Each of the three directories above contain subdirectories identical to the contents of the actual `data.xp3` file from which the scripts are extracted from for organizational purposes.
 
+### Work Plan
+Work plan for the entire project. May change without notice.
+
+1. Complete US translation of a chapter.
+
+2. Do a second pass on that chapter to tweak changes and catch typos.
+
+3. Begin UK translation of that chapter; begin to accept community contributions for the chapter.
+
+4. Once UK translation is near completion or is completed and the US translation has most or all of its issues fixed, start US translation of next chapter.
+
+5. Repeat until all chapters are finished.
+
+6. At some point (doesn't matter exactly when), do the US translation of the entire glossary.
+
+7. Second pass of glossary, then begin UK translation of it.
+
+Remember to see the progress section above to know where exactly I am in the project!
+
 ### Workflow
-Ideal overall workflow for the entire project; may change without notice:
+Ideal overall workflow for a given chapter; may change without notice:
 
-1. Edit English text in relevant file.
+1. If it doesn't exist yet, use `MaitetsuExtractor` to create a dialogue JSON of the chapter. See the README in the `extractor-js` directory for a definition of "dialogue JSON" and instructions on how to use `MaitetsuExtractor`.
 
-2. Commit changes.
+2. Edit English text in the chapter's dialogue JSON.
 
-The steps beyond this point in the workflow are for compiling the patch itself and installing it. Users only working on the translation tweaks themselves need not be concerned. 
+3. Commit changes.
 
-3. Use `PsBuild` to convert the JSON into PSB format.
+4. Use `MaitetsuExtractor` to insert changes into the main SCN JSON file of the chapter and commit again.
 
-4. Use `PsBuild` again to convert the PSB file to SCN format.
+The steps beyond this point in the workflow are for compiling the patch itself and installing it. Users only working on the translation tweaks themselves need not be concerned.
 
-5. Add the SCN file to the patch directory (where "patch directory" is some directory with other SCN files to be added in the patch archive; doesn't refer to a specific directory in this repository).
+5. Use `PsBuild` to convert the SCN JSON into PSB format.
 
-6. Run the patch directory through `KrkrExtract` to package it into an XP3 archive.
+6. Use `PsBuild` again to convert the PSB file to SCN format.
 
-7. If it isn't already there, put the XP3 archive in the root of the Maitetsu directory. Rename using `patchX.xp3` scheme (where `X` is an integer >= 2) if necessary to avoid name collisions with other patch archives already present.
+7. Add the SCN file to the patch directory (where "patch directory" is some directory with other SCN files to be added in the patch archive; doesn't refer to a specific directory in this repository).
+
+8. Run the patch directory through `KrkrExtract` to package it into an XP3 archive.
+
+9. If it isn't already there, put the XP3 archive in the root of the Maitetsu directory. Rename using `patchX.xp3` scheme (where `X` is an integer >= 2) if necessary to avoid name collisions with other patch archives already present.
 
 ### Notes Regarding Dialogue Scripts
 The following are some notes you should know when working with the script files.
@@ -102,7 +184,7 @@ Some text has in-line references to glossary terms, which are done like so:
 ```JSON
 [
     "Raillord",
-    "\"The %l\u7c98\u7740\u529b;#00ffc040;adhesion%l;#;'s been significantly reduced. I would strongly advise scattering the sand.\"",
+    "\"The %l粘着力;#00ffc040;adhesion%l;#;'s been significantly reduced. I would strongly advise scattering the sand.\"",
     "\"The adhesion's been significantly reduced. I would strongly advise scattering the sand.\"",
     "\"The adhesion's been significantly reduced. I would strongly advise scattering the sand.\""
 ]
