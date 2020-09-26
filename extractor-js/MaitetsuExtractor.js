@@ -64,9 +64,9 @@ function state0(line) {
         state = 3;
         console.log("[Inject] Enter path to dialogue JSON:");
         break;
-    case "4";
+    case "3":
         state = -1;
-        console.log("Goodbye!");
+        console.log("Goodbye!\nPress Enter to exit.");
         break;
     default:
         console.log("Invalid mode.");

@@ -11,7 +11,6 @@ const fs = require("fs");
 function getArrays(data) {
     let texts = data.scenes[1].texts;
     let arr   = [];
-    data      = null; // uhhh if this was C and data was on the heap, I'd call free(&data) here, but this is not C, so :feelsBadMan:
     
     texts.forEach(function(val, index) {
         arr[index] = val[2];
@@ -50,7 +49,7 @@ module.exports = function(inPath, outPath) {
     return new Promise(function(resolve, reject) {
         readFile(inPath).then(function(data) {
             let arr = getArrays(data);
-            writeFile(data, outPath).then(function() {
+            writeFile(arr, outPath).then(function() {
                 resolve();
             }).catch(function(err) {
                 reject(err);
