@@ -21,7 +21,7 @@ Installation instructions will be bundled with or otherwise included alongside t
 ## Progress
 If you're viewing this on the `master` branch, you are seeing the progress that the latest release covers.
 
-If you're viewing this on the `dev-master` branch, you are more-or-less seeing the progress that the latest commit cover.
+If you're viewing this on the `dev-master` branch, you are seeing more-or-less the progress that the latest commit covers.
 
 Be sure to view this section on the `dev-master` branch ([here](https://github.com/1230james/maitetsu-english-tweak/tree/dev-master)) for the most up-to-date progress information!
 
@@ -30,7 +30,7 @@ Be sure to view this section on the `dev-master` branch ([here](https://github.c
 **Coming Up Next:** Common Route, Chapter 1, second pass
 
 * American (US) Patch Progress:
-    * Glossary: 0%
+    * Glossary: 1%
     * Common Route: 0%
     * Hachiroku Route: 0%
     * Paulette Route: 0%
@@ -68,6 +68,7 @@ Both values are floored (rounded down) to an integer after computation.
 * KrkrExtract 1.0.3.1 for packing a patch archive.
 * [GARbro](https://github.com/morkt/GARbro) for browsing and extracting files from XP3 archives when KrkrExtract isn't used.
 * [PsBuild from FreeMote](https://github.com/UlyssesWu/FreeMote) for converting JSON back into a KiriKiri-compatible format (SCN).
+* MaitetsuExtractor, a custom tool for extracting dialogue information from game assets. See the README in the `extractor-js` directory.
 
 ## Contributing
 Contributions are welcome! This is intended to be a community project; I'm not intending to do this entirely by myself.
@@ -94,7 +95,11 @@ Make sure you're reading this on the `dev-master` branch for the most up-to-date
 
 `gb`: Files with British English-specific tweaks.
 
-Each of the three directories above contain subdirectories identical to the contents of the actual `data.xp3` file from which the scripts are extracted from for organizational purposes.
+`extractor-js`: `MaitetsuExtractor` files & README.
+
+Each of the three directories above that contain VN assets (i.e. `en`, `us`, and `gb`) have subdirectories identical to the contents of the actual `data.xp3` file from which the scripts are extracted from for organizational purposes.
+
+These three directories also have a `dialogue-json` directory for holding dialogue JSONs created by `MaitetsuExtractor`.
 
 ### Work Plan
 Work plan for the entire project. May change without notice.
