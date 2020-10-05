@@ -135,10 +135,34 @@ When submitting pull requests, please ensure:
 2. All commits and changes you made adhere to other policies and guidelines listed in this document.
 3. List all the changes you made in your pull request message. You do not need to be too specific, but give me an outline. For example, you can say "Fixed punctuation typos in Common Route chapter 1" instead of a dozen instances of "Added comma on line X in Common Route chapter 1".
 
-## Indentation Policy
-For consistency, please use **four spaces** for indents instead of fewer or more spaces and instead of tab characters **if you need to change the identation of any line**, but **try to avoid changing indentation where possible**.
+## Indentation/Whitespace
+
+### JSONs
+For consistency, please use **four spaces** for indents instead of fewer or more spaces and instead of tab characters **if you need to change the indentation of any line**, but **try to avoid changing indentation where possible**.
 
 Lines that don't need their indentation adjusted should be left alone, since these scripts are hundreds of thousands of lines long, and it would take a significant amount of time to replace each tab character with four spaces.
+
+### tipsindex_en.ini
+Use of tab characters is **REQUIRED** in this file, as the visual novel engine relies on the difference between spaces and tabs to know what text to read and how to interpret it. Please ensure that you do not make changes to `tipsindex_en.ini` that cause it to break from the following format:
+
+```
+Letter
+	Term	Article_to_link_to_in_JP
+	Term2	Other_article_in_JP
+```
+or with escape sequences:
+```
+Letter
+\tTerm\tArticle_to_link_to_in_JP
+\tTerm2\tOther_article_in_JP
+```
+
+Example:
+```
+A
+	Adhesion	粘着力
+	Aircra	エアクラ
+```
 
 # Notes
 The following are some notes you should know when working with the script files.
